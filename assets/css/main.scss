@@ -1,0 +1,518 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// $body-color: rgb(33, 43, 58);
+// $background-color: rgb(52, 68, 91);
+// $text-color: rgb(18, 131, 183);
+// $masthead-link-color: rgb(0,255,0);
+// $indent-var: 2.44em
+// $paragraph-indent: true;
+$link-color: #94f55c;
+$indent-var: 2.44em;
+
+$serif: Georgia, Times, serif;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif-narrow: "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace: Monaco, Consolas, "Lucida Console", monospace;
+
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+$type-size-1: 2.441em; // ~39.056px
+$type-size-2: 1.953em; // ~31.248px
+$type-size-3: 1.563em; // ~25.008px
+$type-size-4: 1.25em; // ~20px
+$type-size-5: 1em; // ~16px
+$type-size-6: 0.75em; // ~12px
+$type-size-7: 0.6875em; // ~11px
+$type-size-8: 0.625em; // ~10px
+
+.page__lead {
+  font-family: $global-font-family;
+}
+
+.archive {
+  text-align: justify;
+  font-size: $type-size-6;
+}
+
+img[src$="centerme"] {
+  display: block;
+  margin: 0 auto;
+}
+
+img[src$="padme"] {
+  padding: 10px;
+}
+
+img[src$="rounded"] {
+  border-radius: 20%;
+  // border: 1px solid rgb(255, 255, 255);
+  box-shadow: 6px 6px 5px rgba(17, 22, 27, 0.541);
+}
+
+img[src$="shadow"] {
+  box-shadow: 6px 6px 5px rgba(17, 22, 27, 0.541);
+}
+
+.image-caption {
+  text-align: center;
+  font-size: 0.7rem;
+  color: light-grey;
+  margin: 2em;
+}
+
+h-abstract {
+  font-size: $type-size-5;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  font-family: $sans-serif-narrow;
+  color: #9697a3;
+}
+
+h-exp-title {
+  font-size: $type-size-2;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  font-family: $sans-serif-narrow;
+  color: #9697a3;
+}
+
+h-exp-subtitle {
+  font-size: $type-size-4;
+  display: block;
+  overflow: hidden;
+  font-family: $sans-serif-narrow;
+  color: #dedfe4;
+}
+
+h-exp-desc {
+  font-size: $type-size-5;
+  display: block;
+  overflow: hidden;
+  font-family: $sans-serif-narrow;
+  color: #757683;
+}
+
+h-period {
+  font-size: $type-size-5;
+  font-family: $sans-serif-narrow;
+  font-weight: bold;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+  // color: #37ebbb;
+  color: #eb37be;
+}
+
+h-place {
+  font-size: $type-size-5;
+  font-family: $sans-serif-narrow;
+  display: inline-block;
+  vertical-align: top;
+  color: #9493d1;
+}
+
+// table with no borders or background
+table {
+  table-layout: fixed;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border-style: hidden !important;
+}
+
+th {
+  background: rgb(37, 42, 51);
+}
+
+/* default syntax highlighting (base16) */
+$base00: #34444d;
+$base01: #2e3c43;
+$base02: #314549;
+$base03: #546e7a;
+$base04: #b2ccd6;
+$base05: #eeffff;
+$base06: #eeffff;
+$base07: #ffffff;
+$base08: #f07178;
+$base09: #f78c6c;
+$base0a: #ffcb6b;
+$base0b: #c3e88d;
+$base0c: #89ddff;
+$base0d: #82aaff;
+$base0e: #c792ea;
+$base0f: #ff5370;
+
+.author__avatar {
+  img {
+    max-width: 160px !important;
+  }
+}
+
+.sidebar.sticky {
+  height: calc(160vh - 2em - 2em) !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.centered {
+  text-align: center;
+}
+
+.button {
+  border: none;
+  box-shadow: 6px 6px 14px rgba(17, 22, 27, 0.541);
+  color: white;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: $sans-serif-narrow;
+  margin: 20px 18px;
+  width: 180px;
+  height: 180px;
+}
+
+.button:hover {
+  box-shadow: 0px 0px 60px rgba(193, 248, 255, 0.699);
+}
+
+.button-certif {
+  border: none;
+  box-shadow: 4px 4px 8px rgba(17, 22, 27, 0.541);
+  border-radius: 12px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(56, 53, 53);
+  font-family: $sans-serif-narrow;
+  margin: 12px 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.button-certif:hover {
+  box-shadow: 0px 0px 50px rgba(193, 248, 255, 0.499);
+}
+
+/* ========================================================
+   Progress bars
+   ===================================================== */
+.progress {
+  padding: 2px;  
+  margin-bottom: 4px;
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+}
+
+.progress-bar {
+  font-family: "Yanone Kaffeesatz";
+  font-size: 14px;  
+  color: #111;
+  text-align: left;
+  text-indent: 6px;
+  position: relative;
+  height: 8px;
+  border-radius: 4px;
+  -webkit-transition: 0.4s linear;
+  -moz-transition: 0.4s linear;
+  -ms-transition: 0.4s linear;
+  -o-transition: 0.4s linear;
+  transition: 0.4s linear;
+  -webkit-transition-property: width, background-color;
+  -moz-transition-property: width, background-color;
+  -ms-transition-property: width, background-color;
+  -o-transition-property: width, background-color;
+  transition-property: width, background-color;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.25), inset 0 1px rgba(255, 255, 255, 0.1);
+}
+.progress-bar:before,
+.progress-bar:after {
+  content: "";
+  top: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+}
+.progress-bar:before {
+  bottom: 0;
+  z-index: 2;
+//   background: url("../img/stripes.png") 0 0 repeat;
+  border-radius: 4px 4px 0 0;
+}
+.progress-bar:after {
+  bottom: 45%;
+  z-index: 3;
+  border-radius: 4px;
+  background-color: transparent;
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0%, rgba(255, 255, 255, 0.3)),
+    color-stop(100%, rgba(255, 255, 255, 0.05))
+  );
+  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -ms-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: -o-linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+  background-image: linear-gradient(top, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05));
+}
+
+.progress-bar {  
+  background-color: #222;
+}
+
+$color-bar: #94f55c;
+
+.ten > .progress-bar {
+  background-color: $color-bar;
+  width: 10%;
+  -moz-animation: ten 2s ease-out;
+  -webkit-animation: ten 2s ease-out;
+}
+@-moz-keyframes ten {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 10%;
+  }
+}
+@-webkit-keyframes ten {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 10%;
+  }
+}
+
+.twenty > .progress-bar {
+  width: 20%;
+  background-color: $color-bar;
+  -moz-animation: twenty 2s ease-out;
+  -webkit-animation: twenty 2s ease-out;
+}
+@-moz-keyframes twenty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 20%;
+  }
+}
+@-webkit-keyframes twenty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 20%;
+  }
+}
+
+.thirty > .progress-bar {
+  width: 30%;
+  background-color: $color-bar;
+  -moz-animation: thirty 2s ease-out;
+  -webkit-animation: thirty 2s ease-out;
+}
+@-moz-keyframes thirty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 30%;
+  }
+}
+@-webkit-keyframes thirty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 30%;
+  }
+}
+
+.fourty > .progress-bar {
+  width: 40%;
+  background-color: $color-bar;
+  -moz-animation: fourty 2s ease-out;
+  -webkit-animation: fourty 2s ease-out;
+}
+@-moz-keyframes fourty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 40%;
+  }
+}
+@-webkit-keyframes fourty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 40%;
+  }
+}
+
+.fifty > .progress-bar {
+  width: 50%;
+  background-color: $color-bar;
+  -moz-animation: fifty 2s ease-out;
+  -webkit-animation: fifty 2s ease-out;
+}
+@-moz-keyframes fifty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@-webkit-keyframes fifty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 50%;
+  }
+}
+
+.sixty > .progress-bar {
+  width: 60%;
+  background-color: $color-bar;
+  -moz-animation: sixty 2s ease-out;
+  -webkit-animation: sixty 2s ease-out;
+}
+@-moz-keyframes sixty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 60%;
+  }
+}
+@-webkit-keyframes sixty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 60%;
+  }
+}
+
+.seventy > .progress-bar {
+  width: 70%;
+  background-color: $color-bar;
+  -moz-animation: seventy 2s ease-out;
+  -webkit-animation: seventy 2s ease-out;
+}
+@-moz-keyframes seventy {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+@-webkit-keyframes seventy {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
+.eighty > .progress-bar {
+  width: 80%;
+  background-color: $color-bar;
+  -moz-animation: eighty 2s ease-out;
+  -webkit-animation: eighty 2s ease-out;
+}
+@-moz-keyframes eighty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@-webkit-keyframes eighty {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 80%;
+  }
+}
+
+.ninety > .progress-bar {
+  width: 90%;
+  background-color: $color-bar;
+  -moz-animation: ninety 2s ease-out;
+  -webkit-animation: ninety 2s ease-out;
+}
+@-moz-keyframes ninety {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 90%;
+  }
+}
+@-webkit-keyframes ninety {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 90%;
+  }
+}
+
+.hundred > .progress-bar {
+  width: 100%;
+  background-color: $color-bar;
+  -moz-animation: hundred 2s ease-out;
+  -webkit-animation: hundred 2s ease-out;
+}
+@-moz-keyframes hundred {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 100%;
+  }
+}
+@-webkit-keyframes hundred {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 127.32631 99.459323"
+   height="375.90924"
+   width="481.23331">
+  <defs
+     id="defs2">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker21861"
+       style="overflow:visible">
+      <path
+         id="path21859"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker21101"
+       style="overflow:visible">
+      <path
+         id="path21099"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker20347"
+       style="overflow:visible">
+      <path
+         id="path20345"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker19599"
+       style="overflow:visible">
+      <path
+         id="path19597"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker18857"
+       style="overflow:visible">
+      <path
+         id="path18855"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker18121"
+       style="overflow:visible">
+      <path
+         id="path18119"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17391"
+       style="overflow:visible">
+      <path
+         id="path17389"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16667"
+       style="overflow:visible">
+      <path
+         id="path16665"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15949"
+       style="overflow:visible">
+      <path
+         id="path15947"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15237"
+       style="overflow:visible">
+      <path
+         id="path15235"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14531"
+       style="overflow:visible">
+      <path
+         id="path14529"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13831"
+       style="overflow:visible">
+      <path
+         id="path13829"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker13137"
+       style="overflow:visible">
+      <path
+         id="path13135"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker12449"
+       style="overflow:visible">
+      <path
+         id="path12447"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11767"
+       style="overflow:visible">
+      <path
+         id="path11765"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11091"
+       style="overflow:visible">
+      <path
+         id="path11089"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10421"
+       style="overflow:visible">
+      <path
+         id="path10419"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9757"
+       style="overflow:visible">
+      <path
+         id="path9755"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9099"
+       style="overflow:visible">
+      <path
+         id="path9097"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8447"
+       style="overflow:visible">
+      <path
+         id="path8445"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7801"
+       style="overflow:visible">
+      <path
+         id="path7799"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0c1a5f;fill-opacity:0.97830589;fill-rule:evenodd;stroke:#0c1a5f;stroke-width:1.00000003pt;stroke-opacity:0.97830589"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6896" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1366"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1118" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1080"
+       style="overflow:visible">
+      <path
+         id="path1078"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5583"
+       style="overflow:visible">
+      <path
+         id="path5581"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5575"
+       style="overflow:visible">
+      <path
+         id="path5573"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5567"
+       style="overflow:visible">
+      <path
+         id="path5565"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5563"
+       style="overflow:visible">
+      <path
+         id="path5561"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5559"
+       style="overflow:visible">
+      <path
+         id="path5557"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5555"
+       style="overflow:visible">
+      <path
+         id="path5553"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5551"
+       style="overflow:visible">
+      <path
+         id="path5549"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5547"
+       style="overflow:visible">
+      <path
+         id="path5545"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5543"
+       style="overflow:visible">
+      <path
+         id="path5541"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5539"
+       style="overflow:visible">
+      <path
+         id="path5537"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5535"
+       style="overflow:visible">
+      <path
+         id="path5533"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5531"
+       style="overflow:visible">
+      <path
+         id="path5529"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5527"
+       style="overflow:visible">
+      <path
+         id="path5525"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5523"
+       style="overflow:visible">
+      <path
+         id="path5521"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5519"
+       style="overflow:visible">
+      <path
+         id="path5517"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5515"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5513" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5511"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5509" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5486"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5484" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5377"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5375" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5197"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5195" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5170"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5168" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5164"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5162" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5158"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5156" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4811" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4533" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4811-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5170-0"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5168-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-42"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3-7-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5377-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5375-1" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1080-7"
+       style="overflow:visible">
+      <path
+         id="path1078-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066-5" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5539-6"
+       style="overflow:visible">
+      <path
+         id="path5537-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5559-9"
+       style="overflow:visible">
+      <path
+         id="path5557-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5551-0"
+       style="overflow:visible">
+      <path
+         id="path5549-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1366-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1118-9" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1080-1"
+       style="overflow:visible">
+      <path
+         id="path1078-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5583-7"
+       style="overflow:visible">
+      <path
+         id="path5581-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5575-9"
+       style="overflow:visible">
+      <path
+         id="path5573-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5567-6"
+       style="overflow:visible">
+      <path
+         id="path5565-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5563-6"
+       style="overflow:visible">
+      <path
+         id="path5561-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5559-6"
+       style="overflow:visible">
+      <path
+         id="path5557-18"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5555-7"
+       style="overflow:visible">
+      <path
+         id="path5553-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5551-2"
+       style="overflow:visible">
+      <path
+         id="path5549-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5547-2"
+       style="overflow:visible">
+      <path
+         id="path5545-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5543-7"
+       style="overflow:visible">
+      <path
+         id="path5541-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5539-9"
+       style="overflow:visible">
+      <path
+         id="path5537-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5535-2"
+       style="overflow:visible">
+      <path
+         id="path5533-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5531-9"
+       style="overflow:visible">
+      <path
+         id="path5529-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5527-3"
+       style="overflow:visible">
+      <path
+         id="path5525-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5523-1"
+       style="overflow:visible">
+      <path
+         id="path5521-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5519-9"
+       style="overflow:visible">
+      <path
+         id="path5517-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5515-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5513-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5511-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5509-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5486-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5484-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5377-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5375-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-10"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5197-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5195-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5170-06"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5168-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5164-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5162-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5158-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5156-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068-65"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-93"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4811-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4533-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068-4-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-9-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4811-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5170-0-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5168-4-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-5-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-42-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2-2"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-6-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-9"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3-7-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5203-1-4-3-2-59-3-7-2-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5201-3-1-0-1-2-6-9-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2-6-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4817-4-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5377-2-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5375-1-1" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1080-7-7"
+       style="overflow:visible">
+      <path
+         id="path1078-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5068-6-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#828282;fill-opacity:1;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5066-5-2" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5539-6-2"
+       style="overflow:visible">
+      <path
+         id="path5537-5-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5559-9-1"
+       style="overflow:visible">
+      <path
+         id="path5557-1-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5551-0-6"
+       style="overflow:visible">
+      <path
+         id="path5549-6-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#828282;fill-opacity:0.96818177;fill-rule:evenodd;stroke:#828282;stroke-width:1.00000003pt;stroke-opacity:0.96818177"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-24.66942,-4.7353326)"
+     id="layer1">
+    <g
+       id="layer1-4"
+       transform="translate(4.0864846,-56.884136)">
+      <rect
+         rx="3.0735996"
+         ry="3.0735993"
+         y="75.089066"
+         x="86.836571"
+         height="59.216503"
+         width="60.820118"
+         id="rect5236-1-2"
+         style="fill:#d6ebff;fill-opacity:1;stroke:#1e1367;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:0.96363633;paint-order:markers fill stroke" />
+      <path
+         id="path5199-7"
+         d="m 123.86305,86.456334 c 0.69078,18.448866 -4.31073,17.688846 -9.73289,17.694006"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0;stroke-opacity:0.97830589;marker-end:url(#marker15237)" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="89.920898"
+         x="89.45015"
+         height="7.604526"
+         width="51.44981"
+         id="rect5236-7-0-5-1"
+         style="fill:#97ffbc;fill-opacity:0.78181823;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93636361;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="61.984051"
+         x="118.69965"
+         height="10.056529"
+         width="29.032656"
+         id="rect5236-7"
+         style="fill:#94fcbc;fill-opacity:0.79607843;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text5327-72-7"
+         y="70.204727"
+         x="122.85596"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.11666656px;fill:#333333;stroke-width:0.26458332"
+           y="70.204727"
+           x="122.85596"
+           id="tspan5325-2-4">pre-trained weights</tspan></text>
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="62.122082"
+         x="20.682936"
+         height="10.181375"
+         width="95.306709"
+         id="rect5236"
+         style="fill:#ffffff;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,4.1251408,18.578348)"
+         style="font-style:normal;font-weight:normal;font-size:9.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5254"
+         xml:space="preserve"><flowRegion
+           style="font-size:9.33333397px"
+           id="flowRegion5256"><rect
+             style="font-size:9.33333397px"
+             y="171.96614"
+             x="73.741135"
+             height="31.004791"
+             width="72.521912"
+             id="rect5258" /></flowRegion><flowPara
+           id="flowPara5357"
+           style="font-size:9.33333397px">Street-side <flowSpan
+   id="flowSpan1792"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.33333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">facade</flowSpan> images</flowPara></flowRoot>      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="63.825478"
+         x="49.981907"
+         height="6.3736873"
+         width="20.138058"
+         id="rect5236-3"
+         style="fill:#e6e6e6;stroke:#b4b4b4;stroke-width:0.116;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="63.825478"
+         x="71.831192"
+         height="6.3736873"
+         width="20.138058"
+         id="rect5236-3-6"
+         style="fill:#e6e6e6;stroke:#b4b4b4;stroke-width:0.116;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="63.825478"
+         x="93.680481"
+         height="6.3736873"
+         width="20.138058"
+         id="rect5236-3-4"
+         style="fill:#e6e6e6;stroke:#b4b4b4;stroke-width:0.116;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text5327"
+         y="67.511246"
+         x="59.789036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4800"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+           y="67.511246"
+           x="59.789036">Test set</tspan></text>
+      <text
+         id="text5327-7"
+         y="67.616943"
+         x="82.07756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4796"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+           y="67.616943"
+           x="82.07756">Evaluation set</tspan></text>
+      <text
+         id="text5327-72"
+         y="67.549232"
+         x="103.87613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan4798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;stroke-width:0.26458332"
+           y="67.549232"
+           x="103.87613">Training set</tspan></text>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,107.05762,17.737293)"
+         style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5254-8"
+         xml:space="preserve"><flowRegion
+           style="font-size:14.66666698px"
+           id="flowRegion5256-9"><rect
+             style="font-size:14.66666698px"
+             y="171.96614"
+             x="73.741135"
+             height="20.708136"
+             width="56.568558"
+             id="rect5258-5" /></flowRegion><flowPara
+           id="flowPara5357-6"
+           style="font-size:14.66666698px">VGG16<flowSpan
+   id="flowSpan5363-0"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowPara></flowRoot>      <rect
+         rx="2.69786"
+         ry="2.7897778"
+         y="75.067268"
+         x="21.133272"
+         height="35.542095"
+         width="61.932785"
+         id="rect5236-1"
+         style="fill:#fde4e5;fill-opacity:0.99401197;stroke:#9e2038;stroke-width:0.15500407;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.15500406, 0.31000813;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         transform="matrix(0.00611137,-0.96825858,1.0327458,0.00572976,0,0)"
+         id="text5327-6"
+         y="25.048225"
+         x="-112.44537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.19251993"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.19251993"
+           y="25.048225"
+           x="-112.44537"
+           id="tspan5325-8"><tspan
+             id="tspan5578"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.19251993">Structure-from-Motion </tspan><tspan
+             id="tspan5482"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke-width:0.19251993">(<tspan
+   id="tspan5584"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.19251993">SfM</tspan>)</tspan></tspan></text>
+      <text
+         transform="rotate(-89.905906)"
+         id="text5538"
+         y="145.34151"
+         x="-128.04987"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583325px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583325px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke-width:0.26458332"
+           y="145.34151"
+           x="-128.04987"
+           id="tspan5536">Convolutional Neural Network (<tspan
+   id="tspan5582"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583325px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">CNN</tspan>)</tspan></text>
+      <rect
+         rx="3.0735996"
+         ry="3.0735993"
+         y="137.33086"
+         x="21.043161"
+         height="7.5724769"
+         width="126.76609"
+         id="rect5236-1-6"
+         style="fill:#ffffff;stroke:#b4b4b4;stroke-width:0.17201701;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735993"
+         y="146.96931"
+         x="21.043161"
+         height="7.5724769"
+         width="126.76609"
+         id="rect5236-1-6-7"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="78.79966"
+         x="116.26363"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0"
+         style="opacity:0.63999999;fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.30000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.3, 0.6;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text5603"
+         y="81.968666"
+         x="128.47194"
+         style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5609"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="81.968666"
+           x="128.47194">Hypes</tspan><tspan
+           id="tspan1776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="85.055473"
+           x="128.47194">Settings</tspan></text>
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="78.79966"
+         x="89.41526"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text5639"
+         y="83.705917"
+         x="97.302795"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.46944451px;stroke-width:0.26458332"
+           y="83.705917"
+           x="97.302795"
+           id="tspan5637">Training</tspan></text>
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="100.31487"
+         x="89.41526"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="111.17315"
+         x="89.44912"
+         height="7.6066089"
+         width="51.450844"
+         id="rect5236-7-0-5-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="121.99788"
+         x="89.449409"
+         height="7.6060119"
+         width="51.450542"
+         id="rect5236-7-0-5-3"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="78.008598"
+         x="30.379374"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5-0-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="89.233925"
+         x="30.379374"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5-0-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="100.3256"
+         x="30.379374"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5-0-0-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="2.2286634"
+         ry="2.1585605"
+         y="111.38966"
+         x="21.005629"
+         height="9.4423103"
+         width="62.007851"
+         id="rect5236-1-67"
+         style="fill:#fde4e5;fill-opacity:0.99401197;stroke:#9e2038;stroke-width:0.155;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.155, 0.31;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.1731815"
+         ry="2.8471079"
+         y="121.89622"
+         x="21.011557"
+         height="12.45426"
+         width="61.995991"
+         id="rect5236-1-67-5"
+         style="fill:#ffe6d5;fill-opacity:1;stroke:#e47638;stroke-width:0.155;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.155, 0.31;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="124.1021"
+         x="30.245955"
+         height="7.6739259"
+         width="24.864923"
+         id="rect5236-7-0-5-0-2-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="89.267326"
+         x="58.861897"
+         height="7.674355"
+         width="21.621485"
+         id="rect5236-7-0-5-0-2-3"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.03989227;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="100.52606"
+         x="58.861897"
+         height="7.674355"
+         width="21.621485"
+         id="rect5236-7-0-5-0-0-6-8"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.03989227;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="112.3518"
+         x="58.861897"
+         height="7.674355"
+         width="21.621487"
+         id="rect5236-7-0-5-0-0-6-8-4"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.03989227;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <flowRoot
+         transform="translate(-13.843131,54.881913)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5759"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5761"><rect
+             y="187.6235"
+             x="-106.06602"
+             height="162.63457"
+             width="186.37314"
+             id="rect5763" /></flowRegion><flowPara
+           id="flowPara5765" /></flowRoot>      <flowRoot
+         transform="translate(-13.843131,54.881913)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5767"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5769"><rect
+             y="278.53723"
+             x="-89.398499"
+             height="72.225906"
+             width="169.70563"
+             id="rect5771" /></flowRegion><flowPara
+           id="flowPara5773" /></flowRoot>      <text
+         id="text5777"
+         y="127.00359"
+         x="42.452328"
+         style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5779"
+           style="font-size:2.46944451px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="127.00359"
+           x="42.845413">Surface </tspan><tspan
+           id="tspan2092"
+           style="font-size:2.46944451px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="130.09041"
+           x="42.452328">Reconstruction</tspan></text>
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="124.09663"
+         x="58.861897"
+         height="7.674355"
+         width="21.621489"
+         id="rect5236-7-0-5-0-0-6-8-4-8"
+         style="fill:#cccccc;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.03989227;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text5800"
+         y="142.66035"
+         x="70.073547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="142.66035"
+           x="70.073547"
+           id="tspan5798"><tspan
+             id="tspan5802"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Ray-tracing analysis</tspan></tspan></text>
+      <text
+         id="text5817"
+         y="152.18608"
+         x="72.419884"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.17499995px;stroke-width:0.26458332"
+           y="152.18608"
+           x="72.419884"
+           id="tspan5815">3D labeled model</tspan></text>
+      <text
+         id="text5821"
+         y="83.048485"
+         x="39.070278"
+         style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.17499995px;stroke-width:0.26458332"
+           y="83.048485"
+           x="39.070278"
+           id="tspan5819">SIFT</tspan></text>
+      <text
+         id="text5825"
+         y="94.124062"
+         x="42.544781"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5827"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944427px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="94.124062"
+           x="42.544781">Image Matching</tspan></text>
+      <text
+         id="text5835"
+         y="103.36097"
+         x="42.67841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583325px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583325px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="103.36097"
+           x="43.099571"
+           id="tspan5833">Bundle </tspan><tspan
+           id="tspan5837"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583325px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="106.66827"
+           x="42.67841">Adjustment</tspan></text>
+      <text
+         id="text5841"
+         y="93.594894"
+         x="69.672646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5843"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="93.594894"
+           x="69.672646">Camera projection</tspan></text>
+      <text
+         id="text5847"
+         y="105.23185"
+         x="59.783665"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.11666656px;stroke-width:0.26458332"
+           y="105.23185"
+           x="59.783665"
+           id="tspan5845">Sparse Point Cloud</tspan></text>
+      <text
+         id="text5851"
+         y="116.93099"
+         x="60.184566"
+         style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.11666656px;stroke-width:0.26458332"
+           y="116.93099"
+           x="60.184566"
+           id="tspan5849">Dense Point Cloud</tspan></text>
+      <text
+         id="text5855"
+         y="128.74086"
+         x="70.207176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="128.74086"
+           x="70.207176">Mesh</tspan></text>
+      <text
+         id="text5861"
+         y="94.802971"
+         x="111.50035"
+         style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="94.802971"
+           x="111.50035"
+           id="tspan5859">Weights</tspan></text>
+      <text
+         id="text5865"
+         y="105.36549"
+         x="94.272194"
+         style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="105.36549"
+           x="94.272194"
+           id="tspan5863">Evaluation</tspan></text>
+      <text
+         id="text5869"
+         y="115.92801"
+         x="109.10567"
+         style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="115.92801"
+           x="109.10567"
+           id="tspan5867">Inference</tspan></text>
+      <text
+         id="text5873"
+         y="127.01434"
+         x="102.39167"
+         style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.82222223px;stroke-width:0.26458332"
+           y="127.01434"
+           x="102.39167"
+           id="tspan5871">Segmented images</tspan></text>
+      <g
+         transform="translate(15.416923,33.016939)"
+         id="g4724">
+        <rect
+           style="fill:#97ffbc;fill-opacity:0.95294118;stroke:#b4b4b4;stroke-width:0.208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9"
+           width="4.483583"
+           height="1.829949"
+           x="5.9927268"
+           y="123.80083"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="11.492587"
+           y="125.5049"
+           id="text4629"><tspan
+             id="tspan4627"
+             x="11.492587"
+             y="125.5049"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">Input</tspan></text>
+      </g>
+      <g
+         transform="translate(20.61892,33.016939)"
+         id="g4729">
+        <rect
+           style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.0082;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9-5"
+           width="4.483583"
+           height="1.829949"
+           x="22.219603"
+           y="123.80083"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="27.719463"
+           y="125.5049"
+           id="text4629-9"><tspan
+             id="tspan4627-3"
+             x="27.719463"
+             y="125.5049"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">Product</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker21101)"
+         d="m 60.050934,70.085917 c -0.921766,19.047766 35.624587,13.20241 34.611407,40.892233"
+         id="path4779" />
+      <path
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker15949)"
+         d="m 81.630296,69.901551 c -1.14691,19.365767 17.851155,15.340567 18.976134,30.067822"
+         id="path4779-1" />
+      <g
+         transform="translate(12.842621,33.016939)"
+         id="g4744">
+        <rect
+           style="fill:#f4d7d7;fill-opacity:1;stroke:#c70000;stroke-width:0.208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.208, 0.416;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9-5-4"
+           width="4.483583"
+           height="1.829949"
+           x="53.036179"
+           y="123.80083"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="58.536034"
+           y="125.48629"
+           id="text4629-9-6"><tspan
+             id="tspan4627-3-2"
+             x="58.536034"
+             y="125.48629"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">SfM/MVS</tspan></text>
+      </g>
+      <g
+         transform="translate(20.170989,33.016939)"
+         id="g4739">
+        <rect
+           style="fill:#c1e4f2;fill-opacity:1;stroke:#0f1f77;stroke-width:0.208;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.208, 0.416;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9-5-4-5"
+           width="4.483583"
+           height="1.829949"
+           x="71.913979"
+           y="123.80083"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="77.413834"
+           y="125.50128"
+           id="text4629-9-6-1"><tspan
+             id="tspan4627-3-2-7"
+             x="77.413834"
+             y="125.50128"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">2D</tspan></text>
+      </g>
+      <g
+         transform="translate(-19.017001,25.860353)"
+         id="g1797">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.38499999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.38499999, 0.76999997;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9-5-0-9"
+           width="4.483583"
+           height="1.829949"
+           x="152.71626"
+           y="130.95746"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="158.21613"
+           y="132.47446"
+           id="text4629-9-5-6"><tspan
+             id="tspan4627-3-6-4"
+             x="158.21613"
+             y="132.47446"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">Settings</tspan></text>
+      </g>
+      <path
+         id="path5166-0"
+         d="m 104.10004,70.257521 c 0.10131,2.151825 -3.09192,3.406991 -3.11783,5.484123 l -0.0347,2.785021"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker7801)" />
+      <path
+         id="path5199"
+         d="m 116.27982,82.561285 -2.17909,0.0069"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0;stroke-opacity:0.97830589;marker-end:url(#Arrow1Lend)" />
+      <path
+         id="path5199-7-1"
+         d="m 132.15176,97.501327 0.0709,13.441773"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.2;stroke-dashoffset:0;stroke-opacity:0.97830589;marker-end:url(#marker14531)" />
+      <path
+         id="path5199-7-1-3"
+         d="m 116.22024,118.59855 -1e-5,3.6144"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker13831)" />
+      <path
+         id="path5199-7-1-3-7"
+         d="m 97.239271,129.46491 -0.0945,7.96113"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker13137)" />
+      <path
+         id="path5199-7-1-3-7-5"
+         d="m 84.555346,144.67926 v 2.85845"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker11091)" />
+      <path
+         id="path5199-7-17"
+         d="m 55.090485,104.00355 c 3.419561,-2.47073 0.269434,-9.388423 3.730811,-10.970628"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker16667)" />
+      <path
+         id="path5199-78"
+         d="m 55.090485,104.00355 3.646411,0.0464"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker17391)" />
+      <path
+         id="path5199-7-1-3-7-7"
+         d="m 73.153103,131.70236 -0.02768,5.58072"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker11767)" />
+      <path
+         id="path5199-7-1-3-7-7-4"
+         d="m 42.823905,72.281073 0.0057,5.355245"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker20347)" />
+      <path
+         id="path5199-7-1-3-7-7-4-7"
+         d="m 42.825008,85.735233 0.0057,3.417541"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker19599)" />
+      <path
+         id="path5199-7-1-3-7-7-4-7-1"
+         d="m 42.825008,96.914847 0.0057,3.417533"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker18857)" />
+      <path
+         id="path5199-7-17-1-0"
+         d="m 61.302093,119.94586 c -2.44687,3.84121 -15.010164,-0.14486 -18.527835,3.69865"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker9757)" />
+      <path
+         id="path5199-78-5"
+         d="m 55.052438,128.23567 3.646411,0.0464"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker10421)" />
+      <g
+         transform="translate(-11.759859,-7.1894155)"
+         id="g2939">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#828282;stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect5236-7-0-5-0-0-6-8-9-5-0"
+           width="4.483583"
+           height="1.829949"
+           x="122.69476"
+           y="164.00717"
+           ry="0.56277722"
+           rx="0.39325204" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="128.02267"
+           y="165.61865"
+           id="text1071"><tspan
+             id="tspan1069"
+             x="128.02267"
+             y="165.61865"
+             style="font-size:2.11666656px;fill:#ffffff;stroke-width:0.26458332">Process</tspan></text>
+      </g>
+      <path
+         id="path5199-7-1-2"
+         d="m 100.71763,86.41164 0.0224,3.267856"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker21861)" />
+      <path
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker12449)"
+         d="m 80.536196,92.813359 c 8.913965,-2.89247 2.74093,36.628581 4.54358,44.634001"
+         id="path4779-2" />
+      <path
+         id="path5199-7-17-1-0-8"
+         d="m 133.46375,71.965287 c 0.35712,9.841445 -26.51714,0.801166 -28.83547,6.635693"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker8447)" />
+      <rect
+         rx="3.0735996"
+         ry="3.0735996"
+         y="112.30023"
+         x="30.139696"
+         height="7.674355"
+         width="24.731718"
+         id="rect5236-7-0-5-0-0-6-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         id="path5199-78-2"
+         d="m 54.879688,116.34112 3.646411,0.0464"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker9099)" />
+      <text
+         transform="matrix(0.00611137,-0.96825858,1.0327458,0.00572976,0,0)"
+         id="text5327-6-7"
+         y="25.018749"
+         x="-123.35653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.19251993"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.19251993"
+           y="25.018749"
+           x="-123.35653"
+           id="tspan5325-8-0">(<tspan
+   id="tspan5482-3"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.31023932px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke-width:0.19251993"><tspan
+   id="tspan5446"
+   style="font-weight:bold">MVS</tspan>)</tspan></tspan></text>
+      <path
+         id="path5199-7-1-3-7-7-4-7-1-2"
+         d="m 42.597564,107.92449 0.0054,3.90433"
+         style="fill:none;stroke:#0c1a5f;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97830589;marker-end:url(#marker18121)" />
+      <text
+         transform="scale(0.99278445,1.007268)"
+         id="text5835-6"
+         y="114.35737"
+         x="42.980301"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41226625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24122663"
+         xml:space="preserve"><tspan
+           id="tspan5837-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41226625px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.24122663"
+           y="114.35737"
+           x="43.364285">Dense </tspan><tspan
+           id="tspan5492"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.41226625px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.24122663"
+           y="117.3727"
+           x="42.980301">Image-Matching</tspan></text>
+      <g
+         transform="translate(20.221164,40.210742)"
+         id="g4739-3" />
+    </g>
+  </g>
+</svg>

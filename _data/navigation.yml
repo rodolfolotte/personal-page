@@ -1,9 +1,28 @@
+# main links
 main:
-  - title: "Posts"
+  - title: Home
+    url: /  
+  - title: Blog
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: Education
+    url: /education/  
+  - title: Skills
+    url: /skills/  
+  - title: Publications
+    url: /publications/
+  - title: Experiences
+    url: /experiences/   
+  - title: Portfolio
+    url: /portfolio/
+  - title: "<style='font-color: rgb(255, 0, 0)'>Consultant</style>"
+    url: /consultants/  
+  - title: CV
+    url: "/assets/files/cv/resume_cv_rodolfo_lotte.pdf"
+  # - title: <i class="fas fa-search"></i>
+  #   url: /search/  
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Terms"
+  #   url: /terms/
+  # - title: ""
+  #   url: 
