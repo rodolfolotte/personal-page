@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rodolfo Lotte
+title_separator: "-"
 email: rodolfolotte@gmail.com
 description: &description "PhD in Remote Sensing | MSc in Applied Computing"
-baseurl: # /lotte
+baseurl: /personal-page
 url: https://rodolfolotte.github.io
 
 github_username: rodolfolotte
