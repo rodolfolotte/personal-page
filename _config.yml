@@ -23,7 +23,7 @@ url: https://rodolfolotte.github.io
 github_username: rodolfolotte
 minimal_mistakes_skin: dark
 search: true
-repository               : "rodolfolotte/lotte.github.io"
+repository               : "rodolfolotte/lotte"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
