@@ -39,9 +39,23 @@ $type-size-8: 0.625em; // ~10px
   font-size: $type-size-6;
 }
 
+table {  
+  table-layout: fixed;
+  display: inline-table !important;
+  text-align: center !important;
+} 
+
+td {
+  border-style: hidden !important;
+}
+
+th {
+  background: rgb(37, 42, 51);
+}
+
 img[src$="centerme"] {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto;  
 }
 
 img[src$="padme"] {
@@ -116,21 +130,6 @@ h-place {
   display: inline-block;
   vertical-align: top;
   color: #9493d1;
-}
-
-// table with no borders or background
-table {
-  table-layout: fixed;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-td {
-  border-style: hidden !important;
-}
-
-th {
-  background: rgb(37, 42, 51);
 }
 
 /* default syntax highlighting (base16) */
