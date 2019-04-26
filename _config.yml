@@ -17,7 +17,7 @@ title: Rodolfo Lotte
 title_separator: "-"
 email: rodolfolotte@gmail.com
 description: &description "PhD in Remote Sensing | MSc in Applied Computing"
-baseurl: # /personal-page
+baseurl: /personal-page
 url: https://rodolfolotte.github.io
 
 github_username: rodolfolotte
