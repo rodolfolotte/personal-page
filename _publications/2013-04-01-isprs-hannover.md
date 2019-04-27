@@ -14,8 +14,8 @@ tags:
 ---
 <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Sidnei J. S. Sant'Anna, Cláudia M. Almeida
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/isprs-2013/isprs-2013.pdf){: .btn .btn--danger}
-[<i class='fas fa-file-download'></i> Download poster](/assets/images/papers/isprs-2013/isprs-2013.png?style=padme){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/isprs-2013/isprs-2013.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/images/papers/isprs-2013/isprs-2013.png?style=padme){: .btn .btn--success}
 
 Abstract
 ======
@@ -42,11 +42,11 @@ Therefore, assuming the location of the starting-points a crutial requisite, the
 
 The recognition by the use of SOM methodology was not so efficient when the presence of noisy was applenty. The training samples should have much more examples and take iterations. The experiments were taken over synthetic and real SAR images, as it can be seen below:
 
-![alt-Synthetic SAR image and the starting-points before and after Snakes.](/assets/images/papers/isprs-2013/result1.png?style=centerme)
+![alt-Synthetic SAR image and the starting-points before and after Snakes.]({{site.baseurl}}/assets/images/papers/isprs-2013/result1.png?style=centerme)
 *Synthetic SAR image and the starting-points before and after Snakes* 
 {: .image-caption}
 
-![alt-SAR image and the starting-points before and after Snakes.](/assets/images/papers/isprs-2013/result2.png?style=centerme)
+![alt-SAR image and the starting-points before and after Snakes.]({{site.baseurl}}/assets/images/papers/isprs-2013/result2.png?style=centerme)
 *SAR image and the starting-points before and after Snakes* 
 {: .image-caption}
 
@@ -59,7 +59,7 @@ The tools and source-code was mainly made in MATLAB, which a set of scripts (.m)
 
 **Coding:**
 
-| ![alt-MATLAB](/assets/images/logo/same-dim/matlab.png?style=centerme) | 
+| ![alt-MATLAB]({{site.baseurl}}/assets/images/logo/same-dim/matlab.png?style=centerme) | 
 |:--:|
 | MATLAB | 
 |:--:|
@@ -67,7 +67,7 @@ The tools and source-code was mainly made in MATLAB, which a set of scripts (.m)
 
 **IDE:**
 
-| ![alt-PyCharm](/assets/images/logo/same-dim/envi.png?style=centerme) | ![alt-PyCharm](/assets/images/logo/same-dim/netbeans.png?style=centerme) | 
+| ![alt-PyCharm]({{site.baseurl}}/assets/images/logo/same-dim/envi.png?style=centerme) | ![alt-PyCharm]({{site.baseurl}}/assets/images/logo/same-dim/netbeans.png?style=centerme) | 
 |:--:|:--:|
 | ENVI | Netbeans |
 |:--:|:--:|
@@ -75,7 +75,7 @@ The tools and source-code was mainly made in MATLAB, which a set of scripts (.m)
 
 **Arts:**
 
-| ![alt-Adobe Illustrator](/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop](/assets/images/logo/same-dim/photoshop.png?style=centerme) |
+| ![alt-Adobe Illustrator]({{site.baseurl}}/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop]({{site.baseurl}}/assets/images/logo/same-dim/photoshop.png?style=centerme) |
 |:--:|:--:|
 | Illustrator | Photoshop |
 |:--:|:--:|
@@ -83,7 +83,7 @@ The tools and source-code was mainly made in MATLAB, which a set of scripts (.m)
 
 **Documentation:**
 
-| ![alt-Kile](/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX](/assets/images/logo/same-dim/tex.png?style=centerme) |
+| ![alt-Kile]({{site.baseurl}}/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX]({{site.baseurl}}/assets/images/logo/same-dim/tex.png?style=centerme) |
 |:--:|:--:|
 | Kile | LaTeX |
 |:--:|:--:|
@@ -92,7 +92,7 @@ The tools and source-code was mainly made in MATLAB, which a set of scripts (.m)
 
 Presentation
 ======
-![image-left](/assets/images/papers/isprs-2013/isprs-2013-thumb.png){: .align-left} This work has been presented in a poster form (left), during the [International Society for Photogrammetry and Remote Sensing (ISPRS)](www.isprs.org/), hosted by the Department of Photogrammetry (IPI) of the University of Hannover, in Germany, 2013. The poster can be download in the green buttom at the top of this page.
+![image-left]({{site.baseurl}}/assets/images/papers/isprs-2013/isprs-2013-thumb.png){: .align-left} This work has been presented in a poster form (left), during the [International Society for Photogrammetry and Remote Sensing (ISPRS)](www.isprs.org/), hosted by the Department of Photogrammetry (IPI) of the University of Hannover, in Germany, 2013. The poster can be download in the green buttom at the top of this page.
 
 For this presentation, we summarized the stages since the raw SAR image until the delineation of the roads network by the use of Active Contour, which is initializated by points recognized by Self-Organized Maps.
 

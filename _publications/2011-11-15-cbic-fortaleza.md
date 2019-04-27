@@ -14,7 +14,7 @@ tags:
 ---
 <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Cláudia M. Almeida, José Demísio S. da Silva
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/cbic-fortaleza.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/cbic-fortaleza.pdf){: .btn .btn--danger}
 
 Abstract
 =======

@@ -14,7 +14,7 @@ tags:
 ---
 David G. M. França, <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Cláudia M. de Almeida, Sacha M. O. Siani, Thales S. Körting, Leila G. M. Fonseca, and Luiz T. da Silva
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/franca-lotte.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/franca-lotte.pdf){: .btn .btn--danger}
 
 Abstract
 =======

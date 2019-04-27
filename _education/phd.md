@@ -52,7 +52,7 @@ Methodology
 ======
 The complete methodology of this case study, as shown in Figure below, consists of three stages: A supervised CNN model for semantic segmentation (blue); Scene geometry acquirement (3D reconstruction) through SfM and MVS pipeline (red); Post-processing procedures (yellow); and 3D labeling through ray-tracing analysis (white). The boxes in gray represent the products, delivered in different steps of the workflow.
 
-![image-center](/assets/images/phd/methodology/methodology.png){: .align-center}
+![image-center]({{site.baseurl}}/assets/images/phd/methodology/methodology.png){: .align-center}
 *Methodology* 
 {: .image-caption}
 
@@ -68,7 +68,7 @@ The DL source-code was mainly developed under the [Tensorflow library](https://w
 
 The Figure below shows the inferences from [Ruemonge2014](https://varcity.ethz.ch/3dchallenge/) dataset over the validation set. Instead of showing only a few example results, they were exposed as much as possible to allow the reader to better understand how the neural model behaves according to different situations. Here, it is positively highlighted two aspects. First, the robustness of the neural model in the detection of facade features even under shadow or occluded areas, such as in the presence of pedestrians or cars. This aspect has been one of the most difficult issue to overcome due to the respective obstacles being dynamic and difficult to deal with, especially by the use of pixelwise segmenters. The second aspect is that at 50 thousand (k) iterations, all images presented fine class delineation. Only in a few situations the inferences were not satisfactory. 
 
-![image-center](/assets/images/phd/results/2d/ruemonge.PNG){: .align-center}
+![image-center]({{site.baseurl}}/assets/images/phd/results/2d/ruemonge.PNG){: .align-center}
 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | (a) | (b) | (c) | (d) | (e) | (f) | (g) | (h) | (i) | (j) |
@@ -80,7 +80,7 @@ The quality of the reconstructed surface (mesh) is highly dependent on the densi
 
 Features that are segmented in 2D domain might perfectly align with their geometry, but imprecisions between the geometric edges and the classification may occur. Despite of that, the segmentation alignment onto the mesh is also related to the estimated camera parameters, which are used during ray-tracing. These impressions are directly related to the mesh quality. 
 
-![image-center](/assets/images/phd/results/3d/ruemonge.png){: .align-center}
+![image-center]({{site.baseurl}}/assets/images/phd/results/3d/ruemonge.png){: .align-center}
 *3D labeled model of RueMonge2014. Wide view of the street, facade geometry and its labels after ray-tracing analysis*
 {: .image-caption}
 
@@ -100,7 +100,7 @@ For training and image processing, I use Python coding language and PyCharm IDE 
 
 **Coding:**
 
-| ![alt-CGAL](/assets/images/logo/same-dim/cgal.png?style=centerme) | ![alt-PCL](/assets/images/logo/same-dim/pcl.png?style=centerme) | ![alt-TensorFlow](/assets/images/logo/same-dim/tensorflow.png?style=centerme) | ![alt-C++](/assets/images/logo/same-dim/cpp.png?style=centerme) | ![alt-Python](/assets/images/logo/same-dim/python.png?style=centerme) |
+| ![alt-CGAL]({{site.baseurl}}/assets/images/logo/same-dim/cgal.png?style=centerme) | ![alt-PCL]({{site.baseurl}}/assets/images/logo/same-dim/pcl.png?style=centerme) | ![alt-TensorFlow]({{site.baseurl}}/assets/images/logo/same-dim/tensorflow.png?style=centerme) | ![alt-C++]({{site.baseurl}}/assets/images/logo/same-dim/cpp.png?style=centerme) | ![alt-Python]({{site.baseurl}}/assets/images/logo/same-dim/python.png?style=centerme) |
 |:--:|:--:|:--:|:--:|:--:|
 | CGAL | PCL | Tensorflow | C++ | Python |
 |:--:|:--:|:--:|:--:|:--:|
@@ -108,7 +108,7 @@ For training and image processing, I use Python coding language and PyCharm IDE 
 
 **IDE:**
 
-| ![alt-PyCharm](/assets/images/logo/same-dim/pycharm.png?style=centerme) | ![alt-Meshlab](/assets/images/logo/same-dim/cc.png?style=centerme) | ![alt-CloudCompare](/assets/images/logo/same-dim/meshlab.png?style=centerme) | ![alt-Quantum GIS](/assets/images/logo/same-dim/qgis.png?style=centerme) | 
+| ![alt-PyCharm]({{site.baseurl}}/assets/images/logo/same-dim/pycharm.png?style=centerme) | ![alt-Meshlab]({{site.baseurl}}/assets/images/logo/same-dim/cc.png?style=centerme) | ![alt-CloudCompare]({{site.baseurl}}/assets/images/logo/same-dim/meshlab.png?style=centerme) | ![alt-Quantum GIS]({{site.baseurl}}/assets/images/logo/same-dim/qgis.png?style=centerme) | 
 |:--:|:--:|:--:|:--:|
 | PyCharm | CloudCompare | Meshlab | QGIS |
 |:--:|:--:|:--:|:--:|
@@ -116,7 +116,7 @@ For training and image processing, I use Python coding language and PyCharm IDE 
 
 **Arts:**
 
-| ![alt-Blender](/assets/images/logo/same-dim/blender.png?style=centerme) | ![alt-Adobe Illustrator](/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop](/assets/images/logo/same-dim/photoshop.png?style=centerme) | ![alt-Adobe InDesign](/assets/images/logo/same-dim/indesign.png?style=centerme) | 
+| ![alt-Blender]({{site.baseurl}}/assets/images/logo/same-dim/blender.png?style=centerme) | ![alt-Adobe Illustrator]({{site.baseurl}}/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop]({{site.baseurl}}/assets/images/logo/same-dim/photoshop.png?style=centerme) | ![alt-Adobe InDesign]({{site.baseurl}}/assets/images/logo/same-dim/indesign.png?style=centerme) | 
 |:--:|:--:|:--:|:--:|
 | Blender | Illustrator | Photoshop | InDesign |
 |:--:|:--:|:--:|:--:|
@@ -124,7 +124,7 @@ For training and image processing, I use Python coding language and PyCharm IDE 
 
 **Documentation**
 
-| ![alt-Kile](/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX](/assets/images/logo/same-dim/tex.png?style=centerme) |
+| ![alt-Kile]({{site.baseurl}}/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX]({{site.baseurl}}/assets/images/logo/same-dim/tex.png?style=centerme) |
 |:--:|:--:|
 | Kile | LaTeX |
 |:--:|:--:|
@@ -132,13 +132,13 @@ For training and image processing, I use Python coding language and PyCharm IDE 
 
 To exemplify, the `.gif` below, shows an example of the 3D labeled model on Meshlab, which gives all support for processing and visualize either point cloud or 3D mesh format files.
 
-![image-center](/assets/images/phd/results/3d/handling-3d-meshlab.gif){: .align-center}
+![image-center]({{site.baseurl}}/assets/images/phd/results/3d/handling-3d-meshlab.gif){: .align-center}
 *Example of a 3D .ply file handled in Meshlab. The animation shows the 3D labeled model of one of the streets used in this work ([Ruemonge2014](https://varcity.ethz.ch/3dchallenge/) dataset), as well as the differences between sparse and dense mesh*
 {: .image-caption}
 
 Presentation
 ======
-![image-left](/assets/images/phd/presentation/presentation.png){: .align-left} The defense of the thesis toke place at National Institute for Space Researche (INPE), at 9am, and was composed by the examiners Prof. Dr. Thales Körting (INPE), Prof. Dr. Norbert Haala (IfP-Sttutgart), Prof. Dr. Edson Mitishita (UFPR), Prof. Dr. Antônio Maria G. Tommaselli (UNESP-Prudente), Dr. Fabien H. Wagner (INPE), Dr. Luiz E. O. E. Aragão (INPE-Advisor), and Dr. Yosio E. Shimabukuro (INPE-Advisor).
+![image-left]({{site.baseurl}}/assets/images/phd/presentation/presentation.png){: .align-left} The defense of the thesis toke place at National Institute for Space Researche (INPE), at 9am, and was composed by the examiners Prof. Dr. Thales Körting (INPE), Prof. Dr. Norbert Haala (IfP-Sttutgart), Prof. Dr. Edson Mitishita (UFPR), Prof. Dr. Antônio Maria G. Tommaselli (UNESP-Prudente), Dr. Fabien H. Wagner (INPE), Dr. Luiz E. O. E. Aragão (INPE-Advisor), and Dr. Yosio E. Shimabukuro (INPE-Advisor).
 
 The presentation was unanimously approved and is available physically and virtual,ly for consults in the collection of INPE library, in São José dos Campos. The direct link for digital source, simply click on the red button above. 
 

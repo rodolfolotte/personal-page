@@ -7,7 +7,7 @@ author_profile: true
 
 [<i class='fas fa-file-download'></i> Download dissertation](http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2012/11.23.12.22/doc/publicacao.pdf){: .btn .btn--danger}
 [<i class='fas fa-file-download'></i> Download defense](https://www.dropbox.com/s/t64tx0qsqzoq9hn/defense.pdf){: .btn .btn--warning}
-[<i class='fas fa-file-download'></i> Related paper](/assets/files/publications/isprs-2013/isprs-2013.pdf){: .btn .btn--info}
+[<i class='fas fa-file-download'></i> Related paper]({{site.baseurl}}/assets/files/publications/isprs-2013/isprs-2013.pdf){: .btn .btn--info}
 
 Abstract
 ======
@@ -20,7 +20,7 @@ Source-code and tools
 ======
 **Coding:**
 
-| ![alt-Java](/assets/images/logo/same-dim/java.png?style=centerme) |
+| ![alt-Java]({{site.baseurl}}/assets/images/logo/same-dim/java.png?style=centerme) |
 |:--:|
 | | Java |
 |:--:|
@@ -28,7 +28,7 @@ Source-code and tools
 
 **IDE:**
 
-| ![alt-PyCharm](/assets/images/logo/same-dim/netbeans.png?style=centerme) | 
+| ![alt-PyCharm]({{site.baseurl}}/assets/images/logo/same-dim/netbeans.png?style=centerme) | 
 |:--:|
 | Netbeans |
 |:--:|:--:|
@@ -36,7 +36,7 @@ Source-code and tools
 
 Presentation
 ======
-![image-left](/assets/images/master/defense.png){: .align-left} The board of examiners was composed by Prof. Dr. Thales Körting (INPE), Prof. Dr. Norbert Haala (IfP-Sttutgart), Prof. Dr. Edson Mitishita (UFPR), Prof. Dr. Antônio Maria G. Tommaselli (UNESP-Prudente), Dr. Fabien H. Wagner (INPE), Dr. Luiz E. O. E. Aragão (INPE-Advisor), and Dr. Yosio E. Shimabukuro (INPE-Advisor).
+![image-left]({{site.baseurl}}/assets/images/master/defense.png){: .align-left} The board of examiners was composed by Prof. Dr. Thales Körting (INPE), Prof. Dr. Norbert Haala (IfP-Sttutgart), Prof. Dr. Edson Mitishita (UFPR), Prof. Dr. Antônio Maria G. Tommaselli (UNESP-Prudente), Dr. Fabien H. Wagner (INPE), Dr. Luiz E. O. E. Aragão (INPE-Advisor), and Dr. Yosio E. Shimabukuro (INPE-Advisor).
 
 The presentation was unanimously approved and is available physically for consultation in the collection of INPE, in São José dos Campos, in the digital library, or simply by clicking the orange button above. 
 

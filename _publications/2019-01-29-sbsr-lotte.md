@@ -13,8 +13,8 @@ tags:
 ---
 <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Luiz E. O. C. Aragão, and Yosio E. Shimabukuro
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/sbsr-2019/sbsr2019-lotte.pdf){: .btn .btn--danger}
-[<i class='fas fa-file-download'></i> Download poster](/assets/files/publications/sbsr-2019/poster-2019.pdf){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/sbsr-2019/sbsr2019-lotte.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/files/publications/sbsr-2019/poster-2019.pdf){: .btn .btn--success}
 
 Abstract
 =======
@@ -28,7 +28,7 @@ Contextualization
 
 Presentation
 ======
-![image-left](/assets/images/papers/sbsr-2019/poster-2019-thumb.jpg){: .align-left} This work has been presented in a poster form (left), during the [XIX National Remote Sensing Symposium (SBSR)](www.sbsr.com.br/), hosted by the National Institute for Space Research (INPE), in Santos, São Paulo, 2019. The poster can be download in the green buttom at the top of this page.
+![image-left]({{site.baseurl}}/assets/images/papers/sbsr-2019/poster-2019-thumb.jpg){: .align-left} This work has been presented in a poster form (left), during the [XIX National Remote Sensing Symposium (SBSR)](www.sbsr.com.br/), hosted by the National Institute for Space Research (INPE), in Santos, São Paulo, 2019. The poster can be download in the green buttom at the top of this page.
 
 Fortunately, this was a special presentation, which beyond the interest of the audience, the poster was awarded as one of the eight best posters presented during the event. 
 

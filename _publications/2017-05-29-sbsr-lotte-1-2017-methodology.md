@@ -26,8 +26,8 @@ tags:
 ---
 <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Edison A. Mitishita, and Cláudia M. de Almeida
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/sbsr-2017/1/galoa-proceedings--sbsr-60075-uma-rotina-metod.pdf){: .btn .btn--danger}
-[<i class='fas fa-file-download'></i> Download poster](/assets/files/publications/sbsr-2017/1/poster-1.pdf){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/sbsr-2017/1/galoa-proceedings--sbsr-60075-uma-rotina-metod.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/files/publications/sbsr-2017/1/poster-1.pdf){: .btn .btn--success}
 
 Abstract
 =======
@@ -51,7 +51,7 @@ The tools and source-code was mainly made in LAStools, which a set of scripts we
 
 **Coding:**
 
-| ![alt-LAStools](/assets/images/logo/same-dim/lastools.png?style=centerme) | 
+| ![alt-LAStools]({{site.baseurl}}/assets/images/logo/same-dim/lastools.png?style=centerme) | 
 |:--:|
 | LAStools | 
 |:--:|
@@ -59,7 +59,7 @@ The tools and source-code was mainly made in LAStools, which a set of scripts we
 
 **IDE:**
 
-| ![alt-SurferPyCharm](/assets/images/logo/same-dim/surfer.png?style=centerme) | 
+| ![alt-SurferPyCharm]({{site.baseurl}}/assets/images/logo/same-dim/surfer.png?style=centerme) | 
 |:--:|
 | Surfer |
 |:--:|
@@ -67,7 +67,7 @@ The tools and source-code was mainly made in LAStools, which a set of scripts we
 
 **Arts:**
 
-| ![alt-Adobe Illustrator](/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop](/assets/images/logo/same-dim/photoshop.png?style=centerme) | ![alt-Adobe InDesign](/assets/images/logo/same-dim/indesign.png?style=centerme) |
+| ![alt-Adobe Illustrator]({{site.baseurl}}/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop]({{site.baseurl}}/assets/images/logo/same-dim/photoshop.png?style=centerme) | ![alt-Adobe InDesign]({{site.baseurl}}/assets/images/logo/same-dim/indesign.png?style=centerme) |
 |:--:|:--:|:--:|
 | Illustrator | Photoshop | InDesign |
 |:--:|:--:|:--:|
@@ -75,7 +75,7 @@ The tools and source-code was mainly made in LAStools, which a set of scripts we
 
 **Documentation:**
 
-| ![alt-Kile](/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX](/assets/images/logo/same-dim/tex.png?style=centerme) |
+| ![alt-Kile]({{site.baseurl}}/assets/images/logo/same-dim/kile.png?style=centerme) | ![alt-LaTeX]({{site.baseurl}}/assets/images/logo/same-dim/tex.png?style=centerme) |
 |:--:|:--:|
 | Kile | LaTeX |
 |:--:|:--:|
@@ -83,7 +83,7 @@ The tools and source-code was mainly made in LAStools, which a set of scripts we
 
 Presentation
 ======
-![image-left](/assets/images/papers/sbsr-2017/1/poster-2017-thumb.png){: .align-left} This work has been presented in a poster form (left), during the [National Remote Sensing Symposium (SBSR)](www.sbsr.com.br/), hosted by the National Institute for Space Research (INPE), in Santos, 2017. The poster can be download in the green buttom at the top of this page.
+![image-left]({{site.baseurl}}/assets/images/papers/sbsr-2017/1/poster-2017-thumb.png){: .align-left} This work has been presented in a poster form (left), during the [National Remote Sensing Symposium (SBSR)](www.sbsr.com.br/), hosted by the National Institute for Space Research (INPE), in Santos, 2017. The poster can be download in the green buttom at the top of this page.
 
 <!-- For this presentation, we summarized the stages since the raw SAR image until the delineation of the roads network by the use of Active Contour, which is initializated by points recognized by Self-Organized Maps.
 

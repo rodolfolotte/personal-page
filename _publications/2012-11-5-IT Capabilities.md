@@ -12,7 +12,7 @@ tags:
 ---
 Nilson Sant’Anna, Clezio De Nardin, Hisao Takahashi, Joaquim E. R. Costa, I. S. Batista, André S. Ivo, Vitor C. Gomes, <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Fernando O. Pereira, and Marcos P. Salgueiro
 
-[<i class='fas fa-file-download'></i> Download poster](/assets/images/papers/brussels-2012/poster-rescale.jpg){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/images/papers/brussels-2012/poster-rescale.jpg){: .btn .btn--success}
 
 Abstract
 ======
@@ -47,7 +47,7 @@ Source-code and tools
 
 **Arts:**
 
-| ![alt-Adobe Illustrator](/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop](/assets/images/logo/same-dim/photoshop.png?style=centerme) | 
+| ![alt-Adobe Illustrator]({{site.baseurl}}/assets/images/logo/same-dim/illustrator.png?style=centerme) | ![alt-Adobe Photoshop]({{site.baseurl}}/assets/images/logo/same-dim/photoshop.png?style=centerme) | 
 |:--:|:--:|
 | Illustrator | Photoshop |
 |:--:|:--:|
@@ -56,7 +56,7 @@ Source-code and tools
 
 Presentation
 ======
-![image-left](/assets/images/papers/brussels-2012/poster-rescale-thumb.jpg){: .align-left} This work has been presented in a poster form (left), during the [Ninth European Space Weather Week (ESWW)](www.stce.be/esww9/), in the Académie Royale de Belgique, Brussels, Belgium, between 5 and 9 november of 2012. The poster can be download in the green buttom at the top of this page.
+![image-left]({{site.baseurl}}/assets/images/papers/brussels-2012/poster-rescale-thumb.jpg){: .align-left} This work has been presented in a poster form (left), during the [Ninth European Space Weather Week (ESWW)](www.stce.be/esww9/), in the Académie Royale de Belgique, Brussels, Belgium, between 5 and 9 november of 2012. The poster can be download in the green buttom at the top of this page.
 
 This meeting is being jointly organised by the Belgian Solar-Terrestrial Center of Excellence (STCE), the COST ES0803 communities, ESA and the Space Weather Working Team. The local organisation was done by the STCE. The event was built on the advances made during previous European Space Weather Weeks and preceding ESA Space Weather Applications Workshops. 
 

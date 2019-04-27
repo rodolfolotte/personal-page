@@ -9,8 +9,8 @@ categories:
 ---
 Sacha M. O. Siani, Jarvis Campos, David G. M. França, <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Silvana Amaral, Antônio M. V. Monteiro, Thales S. Körting
 
-[<i class='fas fa-file-download'></i> Download paper](/assets/files/publications/sbsr-2015/2/Siani_etal-2014-SBSR-PDI.pdf){: .btn .btn--danger}
-[<i class='fas fa-file-download'></i> Download poster](/assets/files/publications/sbsr-2015/2/poster-sacha.pdf){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/sbsr-2015/2/Siani_etal-2014-SBSR-PDI.pdf){: .btn .btn--danger}
+[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/files/publications/sbsr-2015/2/poster-sacha.pdf){: .btn .btn--success}
 
 Abstract
 =======
@@ -25,7 +25,7 @@ Contextualization
 Presentation
 ======
 
-![image-left](/assets/images/papers/sbsr-2015/2/sbsr-siani-thumb.png){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/papers/sbsr-2015/2/sbsr-siani-thumb.png){: .align-left}
 
 Cite this paper
 ======
