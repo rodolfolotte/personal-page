@@ -6,19 +6,17 @@ classes: wide
 author_profile: true
 ---
 
-![image-left]({{site.baseurl}}/assets/images/institutes/lotte-thumb.png){: .align-left} 
-<h-exp-title>Geotechnologies & Remote Sensing Consulting ME</h-exp-title>
-<h-exp-subtitle>São José dos Campos, SP, Brazil</h-exp-subtitle>
-<h-exp-desc>Consultant in Remote Sensing and geotechnologies for detection and classification of patterns over orbital, aerial and terrestrial images. The specialization goes further with the handle of structural datasets, such as LiDAR (Laser Detect and Ranging) and Photogrammetric (MVS images).</h-exp-desc>
+![image-left]({{site.baseurl}}/assets/images/companies/geopixel.png){: .align-left} 
+<h-exp-title>Geopixel Geotechnologies and IT Solutions</h-exp-title>
+<h-exp-subtitle>Technical Lead in Remote Sensing - ( <h-period>Jun. 2019 - current</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Technologic Park, São José dos Campos, SP, Brazil</h-place>
+<h-exp-desc>Assistance and management of activities involving Geoprocessing and facilities to the land-use aerial monitoring</h-exp-desc>
+
 ---
 
-<h-exp-subtitle>Consultant and Project Manager - ( <h-period>Jul. 2018 - Oct. 2018</h-period> )</h-exp-subtitle>
-<h-place><i class="fas fa-building"></i> Santiago & Cintra Geotecnologias, São Paulo, SP, Brazil</h-place>
-<h-exp-desc>The main objective of this consultant was to automate a method of detection of deforestation alerts in areas of the Amazon biome, using Phyton, through very high resolution images from Planet constellation (PlanetScope).</h-exp-desc>
+More under a commertial environment, the practices here comprises not only the difficulties in Remote Sensing and Geoprocessing, but also the ability to perceive inconsistencies, risks, errors, which methodologies the team could be more benifited (by computational costs and time). Once indentified, lines of solutions are traced, and finally reaching the best workflow based on a certain scenario.
 
-![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/sccon.png?style=rounded){: .align-left} **Deforestation: Detect and Classify**: The problem in identifying patterns or features in digital images still has many branches. Heterogeneous environments, diverse spectral and spatial variations, often dynamic, among others. Treating as many of these branches (or processing modules) as possible in a detailed and tested way brings even more robustness to the solution. In this work, image processing and pattern recognition techniques (Deep-Learning) were applied for the automatic detection and classification of regions with forest degradation (whether by burning, deforestation or natural disasters).
-
-<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-leaf" style="color: #40414b"></i></span></div>
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-terminal" style="color: #40414b"></i></span></div>
 
 ![image-left]({{site.baseurl}}/assets/images/institutes/embrace2-thumb.png){: .align-left} 
 <h-exp-title>Study and Brazilian Monitoring of Space Weather (EMBRACE)</h-exp-title>
@@ -29,7 +27,7 @@ author_profile: true
 
 As System Analyst/Developer during a long period at the EMBRACE/INPE, I could learn a bit more about technologies and practices involving the professional development of big projects. Always surrounded by experient people, the EMBRACE/INPE has broght important skills that allowed me to be more prepared over a complex and dynamic field. Besides, the department also provided a wide variability of scientific topics on Astrophysics, such as Solar, Interplanetary Medium, and Earth activities, and the strategies regarding its monitoring. To go a bit through the applications that I got involved, I listed and explaned below each of them.
 
-<h-exp-subtitle>System Analyst - ( <h-period>Abr. 2018 - current</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>System Analyst - ( <h-period>Abr. 2018 - Jun. 2019</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Datainfo Soluções Tecnologia Ltda</h-place>
 <h-exp-desc>Solutions mostly in Python, maintainance of old applications in Java full-stack layout in MVC, using technologies to receive raw data, store it in databases (PostgreSQL), queue files to be processed on demand and in line (RabbitMQ), share the results of processing via JSF, Primefaces, JPA, Highcharts, etc. The new technologies using Django framework, and models calculation by the most used Python libraries, such as scimage-kit, numpy, scilearn, pandas, xarray, so on.</h-exp-desc>
 

@@ -9,6 +9,7 @@ author_profile: true
 <!-- Com as minhas experiências e formação multidisciplinar, tenho sido consultadas nas áreas de tecnologia, geotecnologia e sensoriamento remoto. Com residência em São José dos Campos, São Paulo, Brazil, os serviços prestados têm compreendido públicos desde a educação básica até empresariais, como consultorias mais amplas e de projetos. -->
 
 ![image-left]({{site.baseurl}}/assets/images/institutes/lotte-thumb.png){: .align-left} 
+<h-place>São José dos Campos, SP, Brazil</h-place>
 <h-exp-desc>With my experiences and multidisciplinary training, I have been consulted in the areas of technology, geotechnology and remote sensing. With a residence in São José dos Campos, São Paulo, Brazil, the services provided have included sectors ranging from basic education to business, such as larger consultancies with full-stack projects until basic presentations and teaching. Besides, the technologies facilities available today, has changed the way how old problems could be solved, with simpler and more flexible solutions, specially on remote sensing. In this sense, the consultancy also addresses solutions and advice on SaaS (Software as Service) and IaaS (Infrastructure as Service), such as Amazon AWS and Cloud Software Services.</h-exp-desc>
 ---
 
@@ -20,3 +21,14 @@ author_profile: true
 
 <h-exp-subtitle><i class="far fa-address-card"></i> Contact</h-exp-subtitle>
 <h-exp-desc>For contacting and an estimate, please, describe your problem/issue/need to <b style="color: rgb(137, 244, 65)">rodolfo.lotte@gmail.com</b>, in three lines paragraph, listing the situation and what you exactly need at the end.</h-exp-desc>
+
+---
+<h-exp-title><i class="fas fa-clipboard-check"></i> Consultings completed</h-exp-title>
+
+<h-exp-subtitle>Consultant and Project Manager - ( <h-period>Jul. 2018 - Oct. 2018</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Santiago & Cintra Geotecnologias, São Paulo, SP, Brazil</h-place>
+<h-exp-desc>Consultant in Remote Sensing and geotechnologies for detection and classification of patterns over orbital, aerial and terrestrial images. The specialization goes further with the handle of structural datasets, such as LiDAR (Laser Detect and Ranging) and Photogrammetric (MVS images). The main objective of this consultant was to automate a method of detection of deforestation alerts in areas of the Amazon biome, using Phyton, through very high resolution images from Planet constellation (PlanetScope).</h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/sccon.png?style=rounded){: .align-left} **Deforestation: Detect and Classify**: The problem in identifying patterns or features in digital images still has many branches. Heterogeneous environments, diverse spectral and spatial variations, often dynamic, among others. Treating as many of these branches (or processing modules) as possible in a detailed and tested way brings even more robustness to the solution. In this work, image processing and pattern recognition techniques (Deep-Learning) were applied for the automatic detection and classification of regions with forest degradation (whether by burning, deforestation or natural disasters).
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
