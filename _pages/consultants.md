@@ -13,7 +13,7 @@ author_profile: true
 <h-exp-desc>With my experiences and multidisciplinary training, I have been consulted in the areas of technology, geotechnology and remote sensing. With a residence in São José dos Campos, São Paulo, Brazil, the services provided have included sectors ranging from basic education to business, such as larger consultancies with full-stack projects until basic presentations and teaching. Besides, the technologies facilities available today, has changed the way how old problems could be solved, with simpler and more flexible solutions, specially on remote sensing. In this sense, the consultancy also addresses solutions and advice on SaaS (Software as Service) and IaaS (Infrastructure as Service), such as Amazon AWS and Cloud Software Services.</h-exp-desc>
 ---
 
-<h-exp-subtitle><i class="fas fa-atom"></i> Topics</h-exp-subtitle>
+<h-exp-subtitle><i class="fas fa-atom"></i> Specialties</h-exp-subtitle>
 * Image Processing: <h-exp-desc>softwares for detections, statistic analysis, segmentations, classifications, among others involve aerial imagery, including structural datasets (LiDAR and MVS point clouds)</h-exp-desc>
 * Scientific image-art: <h-exp-desc>production of images for scientific documents</h-exp-desc>
 * Tutorials and teaching (programming): <h-exp-desc>LaTeX (document production), Python, Java, Programming Logic, best pratices in programming, so on</h-exp-desc>
