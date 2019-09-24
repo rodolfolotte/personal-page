@@ -18,27 +18,27 @@ author_profile: true
     <div style="display: block"><i class="fab fa-java" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">SCJP 6.0</div>
   </a>
-  <a href="master/" class="button-certif">
+  <a href="master/" class="button-certif" style="color: white"> 
     <div style="display: block"><i class="fa fa-globe" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">ERDAS</div>
   </a>
-  <a href="phd/" class="button-certif">
+  <a href="phd/" class="button-certif" style="color: white">
     <div style="display: block"><i class="fas fa-book" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">Trimble MX7</div>
   </a>
-  <a href="phd/" class="button-certif">
+  <a href="phd/" class="button-certif" style="color: white">
     <div style="display: block"><i class="fas fa-cubes" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">LiDAR</div>
   </a>  
-  <a href="phd/" class="button-certif">
+  <a href="phd/" class="button-certif" style="color: white">
     <div style="display: block"><i class="fas fa-book" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">Lecture: PR</div>
   </a>
-  <a href="phd/" class="button-certif">
+  <a href="phd/" class="button-certif" style="color: white">
     <div style="display: block"><i class="fas fa-book" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">Lecture: CV</div>
   </a>
-  <a href="phd/" class="button-certif">
+  <a href="phd/" class="button-certif" style="color: white">
     <div style="display: block"><i class="fas fa-book" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(0, 0, 102)"></i></div>
     <div style="display: block">Lecture: PL</div>
   </a>  
