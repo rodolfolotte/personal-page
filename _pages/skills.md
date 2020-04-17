@@ -106,7 +106,7 @@ author_profile: true
 <div class="progress sixty">
     <div class="progress-bar"></div>
 </div>
-<h-exp-desc>GDAL/OSM/CV2 (Python)</h-exp-desc>
+<h-exp-desc>GDAL/OSM/OpenCV2 (Python)</h-exp-desc>
 <div class="progress ninety">
     <div class="progress-bar"></div>
 </div>
@@ -119,15 +119,15 @@ author_profile: true
 
 <h-exp-subtitle>Coding</h-exp-subtitle>
 <h-exp-desc>Programming logic</h-exp-desc>
-<div class="progress hundred">
+<div class="progress eighty">
     <div class="progress-bar"></div>
 </div>
 <h-exp-desc>Java (SE/EE)</h-exp-desc>
-<div class="progress ninety">
+<div class="progress seventy">
     <div class="progress-bar"></div>
 </div>
 <h-exp-desc>Python</h-exp-desc>
-<div class="progress sixty">
+<div class="progress seventy">
     <div class="progress-bar"></div>
 </div>
 <h-exp-desc>R</h-exp-desc>
@@ -154,7 +154,15 @@ author_profile: true
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-leaf" style="color: #40414b"></i></span></div>
 
 <h-exp-subtitle>Frameworks</h-exp-subtitle>
-<h-exp-desc>Spring</h-exp-desc>
+<h-exp-desc>Tensorflow</h-exp-desc>
+<div class="progress fourty">
+    <div class="progress-bar"></div>
+</div>
+<h-exp-desc>Keras</h-exp-desc>
+<div class="progress fourty">
+    <div class="progress-bar"></div>
+</div>
+<h-exp-desc>Java-Spring</h-exp-desc>
 <div class="progress thirty">
     <div class="progress-bar"></div>
 </div>
@@ -183,7 +191,7 @@ author_profile: true
     <div class="progress-bar"></div>
 </div>
 <h-exp-desc>SCRUM</h-exp-desc>
-<div class="progress eighty">
+<div class="progress ninety">
     <div class="progress-bar"></div>
 </div>
 <h-exp-desc>SOLID</h-exp-desc>

@@ -2,10 +2,10 @@
 layout: splash
 title: "Welcome to my personal page"
 excerpt: 
-  That is an english version of my personal page. Here, you will be introduced to a summary of my work, my skills, works, and what I've done in the past years!<br/>    
+  That is an english version of my personal page. Here, you will be introduced to a summary of my work, my skills, experiences, and what I've done most in the past years!<br/>    
 permalink: /
 header:  
-  overlay_image: /assets/images/background/bg-6.jpg  
+  overlay_image: /assets/images/background/opensuse.png 
   actions:      
     - label: "<i class='fas fa-file-signature'></i> Download my CV"
       url: "/assets/files/cv/resume_cv_rodolfo_lotte.pdf"
@@ -42,11 +42,12 @@ Além dessas atividades, presto consultoria na área de geotecnologias e sensori
 
 <p>In 2014, I returned to Brazil and started my PhD in Remote Sensing, where I worked with information extraction from buildings in large urban centers, such as facade information through the use of Deep Learning and Structure-from-Motion (3D) SfM). In parallel, I returned to <a href="http://www2.inpe.br/climaespacial/portal/en/">(EMBRACE/INPE)</a> in 2016, again, working with the development of applications in the field of space weather and monitoring. In July 2017, I was pleased to meet with the staff of the <a href="http://www.ifp.uni-stuttgart.de/">Department of Photogrammetry (IfP)</a> at the University of Stuttgart in Stuttgart, Germany.</p>
 
-<p>Returning to Brazil in early 2018, continuing my doctorate until its defense in August 2018. In April 2018, however, I was able to carry out the activities at <a href="http://www2.inpe.br/climaespacial/portal/en/">(EMBRACE/INPE)</a> again. Once there, I stayed until april 2019, </p>
+<p>Returning to Brazil in early 2018, continuing my doctorate until its defense in August 2018. In April 2018, however, I was able to carry out the activities at <a href="http://www2.inpe.br/climaespacial/portal/en/">(EMBRACE/INPE)</a> again. Once there, I stayed until april 2019, when I moved to <a href="http://www.geopx.com.br/">Geopixel Geotechnology and IT Solutions</a>, São José dos Campos, São Paulo, assuming a Technical Lead in Remote Sensing role, in june 2019. Mostly, the activities performed were related to coordination, likely in urban mapping and services usually provided for city halls, such as real estate cadastre updates, webGIS, planing, training, research, beyond other.</p>
 
 <p>All the experiments (academic and commercial) reported above were used to test methodologies (unit and integration, in Python and Java), as well as methodologies SCRUM, SOLID, among others that helped me not only in logic (until then, worked more), but also in the conception of project-level knowledge. Meanwhile, I have the opportunity to get a good background on data analysis, data scratching, data parser, so on - in general, alternatives for understanding behaviour/patterns in big amount of data. I'm also Sun Certified Java Programmer - Platform SE 6.0 (SCJP 6.0).</p>
 
-<p>Today I am a technical leader in remote sensing at <a href="http://www.geopx.com.br/">Geopixel Geotechnology and IT Solutions</a>, São José dos Campos, São Paulo, where I perform project coordination activities in mapping and registration, thus involving management, remote sensing and geotechnology activities.</p>
+<p>Today, I'm scientific developer at <a href="http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes">Amazon Deforestation Monitoring Program (PRODES)</a>, also placed at National Institute for Space Research (INPE), São José dos Campos, SP.</p>
 
-<p>In addition to these activities, I have providing consulting in the area of ​​Geotechnologies and Remote Sensing, specifically, with tasks of image processing, cartography and automatic recognition of features by machine learning.</p>
+<p>In addition to these activities, I have providing consulting in the area of Geotechnologies and Remote Sensing, specifically, with tasks of computer vision, cartography and automatic recognition of features by machine learning.</p>
 </font>
+

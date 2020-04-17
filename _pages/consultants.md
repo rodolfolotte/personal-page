@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- Com as minhas experiências e formação multidisciplinar, tenho sido consultadas nas áreas de tecnologia, geotecnologia e sensoriamento remoto. Com residência em São José dos Campos, São Paulo, Brazil, os serviços prestados têm compreendido públicos desde a educação básica até empresariais, como consultorias mais amplas e de projetos. -->
 
-![image-left]({{site.baseurl}}/assets/images/institutes/lotte-thumb.png){: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/logo/personal/personal-logo-03.png){: .align-left} 
 <h-place>São José dos Campos, SP, Brazil</h-place>
 <h-exp-desc>With my experiences and multidisciplinary training, I have been consulted in the areas of technology, geotechnology and remote sensing. With a residence in São José dos Campos, São Paulo, Brazil, the services provided have included sectors ranging from basic education to business, such as larger consultancies with full-stack projects until basic presentations and teaching. Besides, the technologies facilities available today, has changed the way how old problems could be solved, with simpler and more flexible solutions, specially on remote sensing. In this sense, the consultancy also addresses solutions and advice on SaaS (Software as Service) and IaaS (Infrastructure as Service), such as Amazon AWS and Cloud Software Services.</h-exp-desc>
 ---
