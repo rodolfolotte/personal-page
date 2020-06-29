@@ -25,6 +25,14 @@ author_profile: true
 ---
 <h-exp-title><i class="fas fa-clipboard-check"></i> Consultings completed</h-exp-title>
 
+<h-exp-subtitle>Consultant and Project Manager - ( <h-period>Mar. 2020 - Jul. 2020</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Technite Consultoria em Soluções Digitais Ltda, São José dos Campos, SP, Brazil</h-place>
+<h-exp-desc>Use of the Hexagon LuciadLightspeed framework and Lucy Map Centric platform, for the development of a logistics drug control solution. The activities involve the development of a geotechnological solution for the pharmaceutical sector, in order to introduce it to the LUCIADLightSpeed platform, owned by Hexagon Geospatial Brasil.</h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/technite.png?style=rounded){: .align-left} **Pharmaceutical plataform using Hexagon LUCIAD**: Through the Hexagon LUCIAD platform and the LuciadLightSpeed framework, provide the customer with visibility for real-time monitoring of the pharmaceutical sales team, with the objective of obtaining position control, route traveled, visits, definition of sales strategy by region, in addition to identifying and prospecting the target audience not covered by the area in which the team operates. Cross socioeconomic and demographic density data to create visibility of the behavior and characteristics of these areas.
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
+
 <h-exp-subtitle>Consultant and Project Manager - ( <h-period>Jul. 2018 - Oct. 2018</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Santiago & Cintra Geotecnologias, São Paulo, SP, Brazil</h-place>
 <h-exp-desc>Consultant in Remote Sensing and geotechnologies for detection and classification of patterns over orbital, aerial and terrestrial images. The specialization goes further with the handle of structural datasets, such as LiDAR (Laser Detect and Ranging) and Photogrammetric (MVS images). The main objective of this consultant was to automate a method of detection of deforestation alerts in areas of the Amazon biome, using Phyton, through very high resolution images from Planet constellation (PlanetScope).</h-exp-desc>

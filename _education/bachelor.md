@@ -18,7 +18,7 @@ Abstract
 
 Contextualization
 ======
-
+Visual search
 
 Results
 ======
