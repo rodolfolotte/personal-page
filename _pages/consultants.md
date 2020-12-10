@@ -17,13 +17,31 @@ author_profile: true
 * Image Processing: <h-exp-desc>softwares for detections, statistic analysis, segmentations, classifications, among others involve aerial imagery, including structural datasets (LiDAR and MVS point clouds)</h-exp-desc>
 * Scientific image-art: <h-exp-desc>production of images for scientific documents</h-exp-desc>
 * Tutorials and teaching (programming): <h-exp-desc>LaTeX (document production), Python, Java, Programming Logic, best pratices in programming, so on</h-exp-desc>
-* Photogrammetry and RS (softwares/IDEs): <h-exp-desc>PhotoScan, LAStools, ENVI, ArcGIS, QGIS, GDAL, CGAL, PCL, MATLAB, so on</h-exp-desc>
+* Photogrammetry and Remote Sensing (softwares/IDEs): <h-exp-desc>PhotoScan, LAStools, ENVI, ArcGIS, QGIS, GDAL, CGAL, PCL, MATLAB, so on</h-exp-desc>
 
 <h-exp-subtitle><i class="far fa-address-card"></i> Contact</h-exp-subtitle>
 <h-exp-desc>For contacting and an estimate, please, describe your problem/issue/need to <b style="color: rgb(137, 244, 65)">rodolfo.lotte@gmail.com</b>, in three lines paragraph, listing the situation and what you exactly need at the end.</h-exp-desc>
 
 ---
-<h-exp-title><i class="fas fa-clipboard-check"></i> Consultings completed</h-exp-title>
+<h-exp-title><i class="fas fa-drafting-compass"></i> Consultancies in progress</h-exp-title>
+
+<h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - present date</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Bioverse Labs, São Paulo, SP, Brazil</h-place>
+<h-exp-desc></h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>  
+</ul>
+
+[comment]: <> (* <i class="fab fa-bitbucket"></i>)
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
+
+---
+<h-exp-title><i class="fas fa-clipboard-check"></i> Consultancies completed</h-exp-title>
 
 <h-exp-subtitle>Consultant and Project Manager - ( <h-period>Mar. 2020 - Jul. 2020</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Technite Consultoria em Soluções Digitais Ltda, São José dos Campos, SP, Brazil</h-place>

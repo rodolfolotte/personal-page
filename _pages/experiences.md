@@ -5,10 +5,24 @@ layout: archive
 classes: wide
 author_profile: true
 ---
+![image-left]({{site.baseurl}}/assets/images/companies/sccon.png?style=rounded){: .align-left} 
+<h-exp-title>Santiago & Cintra Consultoria (SCCON)</h-exp-title>
+<h-exp-subtitle>Computer Vision and Remote Sensing specialist - ( <h-period>Dez. 2020 - current</h-period> )</h-exp-subtitle>
+<h-place>São Paulo, SP, Brazil</h-place>
+<h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring. Tasks involve the elaboration of methodologies to deal with very high resolution images for multiple purposes, such as the public security, monitoring, inspection and assistance to federal institutions to combat deforestation, among others.</h-exp-desc>
+
+---
+The use of images of very high spatial and temporal resolution, has become a trend due to the fact that its viability today is more feasible. For example, the availability of storage resources, cloud computing, technologies for handling large amounts of data, among others, are examples of components that support applications involving large amounts of data and, in addition, with high resolution and availability ([Read More](https://www.sccon.com.br/)).
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/fft.jpeg?style=rounded){: .align-left} **Autonomous image enhancement**: <h-app>Right after the acquisition and selection of images, some attenuation or noise can result in visually bad images, with contrasts that are inadequate for basic interpretation. Therefore, due to the large amount of daily images, it is necessary to routines that automatically correct characteristics that can hinder the interpretation of the image, highlighting strategic targets in order to provide better conditions for analysis and interpretation.</h-app>
+
+[comment]: <> (![image-left]&#40;{{site.baseurl}}/assets/images/applications/pics/same-dim/pfed.jpg?style=rounded&#41;{: .align-left} **Monitoring and fiscalization support**: <h-app>.</h-app>)
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
 
 ![image-left]({{site.baseurl}}/assets/images/institutes/prodes.png){: .align-left} 
 <h-exp-title>Amazon Deforestation Monitoring (PRODES)</h-exp-title>
-<h-exp-subtitle>Scentific Development and Remote Sensing - ( <h-period>Jan. 2020 - current</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>Scentific Development and Remote Sensing - ( <h-period>Jan. 2020 - Dec. 2020</h-period> )</h-exp-subtitle>
 <h-place>National Institute for Space Research (INPE), São José dos Campos, SP, Brazil</h-place>
 <h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring, especicaly, at the brazilian Amazon.</h-exp-desc>
 
@@ -21,7 +35,15 @@ The PRODES project performs satellite monitoring of recent deforestation in the 
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/deforestation.jpg?style=rounded){: .align-left} **Autonomous monitoring**: <h-app>Beyond the tasks under the monitoring of deforestation through aerial images, one of the promising line of development, is to mitigate ways to automate the whole process, or part of it. In this case, we would have faster and accurate answers to those questions involving the forest losses. This work focuses mainly on image classification methodologies (specially the ones regarding Deep Learning architectures) with the objective of obtaining fast and, at the same time, consistent results.</h-app>
 
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>GEE - client-side processing module <a href="https://github.com/prodes-amz/gee-python">[Read more]</a></h-versioning></li>    
+</ul>
+
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/cloud.jpeg?style=rounded){: .align-left} **Cloud Programming**: <h-app>With the emergence of new technologies in the computational scope, both instrumental (processing power, storage and occupation) as well as the emergence of frameworks and algorithms, a new area of studies has been formed within the project. To keep up with technological trends, the entire infrastructure and dynamism of the project is gradually being modernized. One of these changes is the partial processing of the classification of images in the Cloud. In this work, scripts are being developed to be deployed on Amazon AWS infrastructure, together with repositories already publicly available, such as Landsat-8, Sentinel-1 and 2 collections, CBERS-4B, among others.</h-app>
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>AWS imagery module <a href="https://github.com/prodes-amz/aws">[Read more]</a></h-versioning></li>    
+</ul>
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
 

@@ -64,7 +64,6 @@ img[src$="padme"] {
 
 img[src$="rounded"] {
   border-radius: 20%;
-  // border: 1px solid rgb(255, 255, 255);
   box-shadow: 6px 6px 5px rgba(17, 22, 27, 0.541);
 }
 
@@ -138,6 +137,14 @@ h-app {
   overflow: hidden;
   vertical-align: top;
   color: #ccebff;
+}
+
+h-versioning {
+  font-size: $type-size-5;
+  font-family: $sans-serif-narrow;
+  display: inline-block;
+  vertical-align: top;
+  color: #ccffff;
 }
 
 /* default syntax highlighting (base16) */
