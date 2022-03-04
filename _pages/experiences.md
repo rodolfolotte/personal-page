@@ -14,6 +14,10 @@ author_profile: true
 ---
 The use of images of very high spatial and temporal resolution, has become a trend due to the fact that its viability today is more feasible. For example, the availability of storage resources, cloud computing, technologies for handling large amounts of data, among others, are examples of components that support applications involving large amounts of data and, in addition, with high resolution and availability ([Read More](https://www.sccon.com.br/)).
 
+![image-left]({{site.baseurl}}/assets/images/applications/pics/pf.svg?style=smallpic){: .align-left} **Dedicated support**: <h-app>Support dedicated to the Brazilian Federal Police (PF), which is part of the inspection program and the initiation of operations through orbital images of very high resolution. The tasks carried out in this area mainly involve the development of tools for monitoring Brazilian forests in order to preserve them and break the chain of illegal land use, as well as other operations of an environmental nature.<h-app></h-app>
+
+  <br/>
+
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/fft.jpeg?style=rounded){: .align-left} **Autonomous image enhancement**: <h-app>Right after the acquisition and selection of images, some attenuation or noise can result in visually bad images, with contrasts that are inadequate for basic interpretation. Therefore, due to the large amount of daily images, it is necessary to routines that automatically correct characteristics that can hinder the interpretation of the image, highlighting strategic targets in order to provide better conditions for analysis and interpretation.</h-app>
 
 [comment]: <> (![image-left]&#40;{{site.baseurl}}/assets/images/applications/pics/same-dim/pfed.jpg?style=rounded&#41;{: .align-left} **Monitoring and fiscalization support**: <h-app>.</h-app>)

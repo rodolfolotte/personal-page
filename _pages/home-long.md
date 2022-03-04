@@ -5,7 +5,7 @@ excerpt:
   That is an english version of my personal page. Here, you will be introduced to a summary of my work, my skills, experiences, and what I've done most in the past years!<br/>    
 permalink: /
 header:  
-  overlay_image: /assets/images/background/opensuse.png 
+  overlay_image: /assets/images/background/purples.png 
   actions:      
     - label: "<i class='fas fa-file-signature'></i> Download my CV"
       url: "/assets/files/cv/resume_cv_rodolfo_lotte.pdf"

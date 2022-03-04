@@ -1,48 +1,76 @@
 ---
-title: "Land-cover classification of an intra-urban environment using high-resolution images and geographic object-based image analysis: the case of APA Mananciais do Rio Paraíba do Sul"
+title: "Accurate mapping of Brazil nut trees (Bertholletia excelsa) in Amazonian forests using WorldView-3 satellite images and convolutional neural networks"
 venue: "Simpósio Brasileiro de Sensoriamento Remoto (SBSR), João Pessoa, 2015"
-date: 2015-04-29
+date: 2021-04-15
 classes: wide
 layout: archive
 categories:
-  - proceedings
+  - journal
 ---
-Sacha M. O. Siani, Jarvis Campos, David G. M. França, <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Silvana Amaral, Antônio M. V. Monteiro, Thales S. Körting
+Matheus P. Ferreira, <span style="color:lightblue">**Rodolfo G. Lotte**</span>, Francisco V. D’Elia, Christos Stamatopoulos, Do-Hyung Kim, Maria Beatriz N. Ribeiro, and Adam R. Benjamin
 
-[<i class='fas fa-file-download'></i> Download paper]({{site.baseurl}}/assets/files/publications/sbsr-2015/2/Siani_etal-2014-SBSR-PDI.pdf){: .btn .btn--danger}
-[<i class='fas fa-file-download'></i> Download poster]({{site.baseurl}}/assets/files/publications/sbsr-2015/2/poster-sacha.pdf){: .btn .btn--success}
+[<i class='fas fa-file-download'></i> Download paper](https://www.sciencedirect.com/science/article/abs/pii/S1574954121000935){: .btn .btn--danger}
 
 Abstract
 =======
-<h-abstract>Protected areas of sustainable use such as the Environmental Protection Areas (APA) encompass urban areas. Because the characteristic urban spaces are under dynamic changes, they usually entail problems related to planning land cover. Such areas are fragile, especially when located inside protected areas, so it is necessary to monitor and evaluate them. Remote sensing data provides important information for urban planning and management issues, and have a great potential to assist conservation unit managers in monitoring such protected areas. Urban environments are characterized by high spectral and spatial heterogeneity and, consequently, most urban pixels in moderate resolution imagery contain multiple land-cover materials. The objective of this paper is to demonstrate the capability of RapidEye sensor data, for the intra-urban scale classification of land cover in protected areas, and to develop a semi-automatic classification method based on geographic object-based image analysis and data mining techniques, for efficiently identifying small changes in urban areas. A unit of the APA of "Mananciais do Rio Paraíba do Sul" (APA-MRPS), aimed to preserve the water sources for more than 15 million people, was selected as study site. The results showed that RapidEye data and the methodology used were effective in classifying constructed areas, enabling the identification of small changes in land cover. The data and methodology may be able to assist managers in the monitoring and evaluation processes of protected areas, especially APAs.</h-abstract>
+<h-abstract>The commercialization of Brazil nuts, seeds of Bertholletia excelsa Bonpl. (Lecythidaceae), represents one of the main income-generation activities for local and indigenous people from the Brazilian Amazon region. Because trees of B. excelsa grow and bear fruit almost exclusively in natural forests, information on their spatial distribution is crucial for nut harvest planning. However, this information is difficult to obtain with traditional approaches such as ground-based surveys. Here, we show the potential of convolutional neural networks (CNNs) and WorldView-3 satellite images (pixel size = 30 cm) to map individual tree crowns (ITCs) and groves of B. excelsa in Amazonian forests. First, we manually outlined B. excelsa ITCs in the WorldView-3 images using field-acquired geolocation information. Then, based on ITC boundaries, we sequentially extracted image patches and selected 80% of them for training and 20% for testing. We trained the DeepLabv3+ architecture with three backbones: ResNet-18, ResNet-50, and MobileNetV2. The average producer’s accuracy was 93.87 ± 0.85%, 93.89 ± 1.6% and 93.47 ± 3.6% for ResNet-18, ResNet-50 and MobileNetV2, respectively. We then developed a new random patch extraction training strategy and assessed how a reduction in the percentage of training patches impacted the classification accuracy. To illustrate the robustness of the new training strategy, similar F1-scores were achieved whether 80% or 10% of the total number of patches were used to train the CNN model. By analyzing the feature maps derived from ResNet-18, we found that the shadow of emergent B. excelsa trees are important for their discrimination. Geometric distortions in the WorldView-3 images resulting from extreme off-nadir viewing angles compromise the presence of shadows, thus potentially hampering B. excelsa detection. Our results show that ITCs and groves of B. excelsa can be mapped by integrating CNNs and very-high-resolution (VHR) satellite images, paving the way for monitoring this important tree species in large tracts of Amazonian forests.</h-abstract>
+
 
 Contextualization
 ======
+The Brazil nut is one of the most important non-timber forest products in South America (Peres et al., 2003). It is extracted from Bertholletia excelsa Bonpl. (Lecythidaceae) trees that grow and bear fruit almost exclusively in natural forests rather than in plantations. Brazil nuts are an essential dietary item for local populations in Amazonia and are also traded in considerable volumes. In 2019, Brazil produced 32.9 thousand tons of Brazil nuts, which represented 11.1% of the economic profit generated by exploring natural plant resources (IBGE, 2019). In addition to the nuts’ economic importance, the wood of B. excelsa trees has a high value in the market, which motivates illegal logging activities, given that the species is considered threatened by the Brazilian Ministry of Environment (MMA, 2019).
 
-**Watch out!** The first author personal page (MSc. Sacha O. M. Siani), can be found here. The original link and details of this publication, can be found [here](https://sachasiani.github.io/publications/).  
-{: .notice--danger}
+Recently, convolutional neural networks (CNNs), a type of deep learning method, have been hailed as a promising approach for identifying tree species in remote sensing images, especially in very-high-resolution (VHR) data (Kattenborn et al., 2021). CNNs are designed to automatically extract spatial patterns (e.g., shapes, edges, texture) of images using a set of convolution and pooling operations (Zhang et al., 2016), hence learning object-specific characteristics. In the case of tree species, such characteristics are mainly related to the canopy structure: the arrangement of leaves and branches in the crown or color patterns caused by flowering events. CNNs designed for semantic segmentation can simultaneously classify and detect individual tree crowns (ITCs), thus avoiding object-based approaches that require an ITC delineation step before classification. ITC delineation is a challenging task, particularly in tropical forests in which the tree crowns usually overlap and have highly variable sizes and shapes (Tochon et al., 2015; Wagner et al., 2018; G Braga et al., 2020).
 
-Presentation
+This study seeks to contribute knowledge regarding the potential of CNNs to map B. excelsa trees in Amazonian forests using WorldView-3 satellite images. We bring new insights into model training strategies and backbones for feature extraction. We presented an approach that can map the spatial distribution of individual trees and groves of B. excelsa in large tracts of Amazonian forests.
+
+
+Materials
+======
+The study area is located in southern Pará State, southeastern Brazilian Amazon, within the Kayapó indigenous land (Fig. 1). The Kayapó territory, a regularized area of 3,284,005 ha, harbors more than 8580 indigenous people (IBGE, 2010) from several ethnicities or subgroups at the eastern part of the Amazon biome. Given that the Xingu River crosses the territory and other numerous small streams run through the inner forest, there are estimated to be 19 known indigenous communities and more than five isolated ones (Ricardo et al., 2000). 
+
+Cloud-free WorldView-3 images were acquired over the area of interest on 19 June 2016, at a maximum off-nadir view angle of 16.07◦, encompassing an area of about 1071 km 2 (see images within the red
+polygon of Figure below) 
+
+![image-center]({{site.baseurl}}/assets/images/papers/ferreira-2021/location.png){: .align-center}
+*Location of the study area in Brazil. (a) Pará state and indigenous territories. (b) Study area located within the Kayapó reserve. (c) True color composition of a WorldView-3 scene (pixel size = 30 cm) showing individual tree crowns (yellow polygons) of Brazil nut trees (Bertholletia excelsa)*
+{: .image-caption}
+
+
+Methodology
 ======
 
-![image-left]({{site.baseurl}}/assets/images/papers/sbsr-2015/2/sbsr-siani-thumb.png){: .align-left}
+![image-center]({{site.baseurl}}/assets/images/papers/ferreira-2021/random-patch-extraction.png){: .align-center}
+*Illustration of two approaches used to train the convolutional neural network (CNN) model. (a) Sequential patch extraction. The patches are sequentially extracted from the WorldView-3 image based on the manually delineated individual tree crowns’ boundaries. These patches are then used to train a CNN model. (b) Random patch extraction. The sequentially extracted patches are combined so that they roughly form a squared tiled image, and, from this image, patches are randomly extracted*
+{: .image-caption}
+
+
+Results
+=======
+
+![image-center]({{site.baseurl}}/assets/images/papers/ferreira-2021/result-1.png){: .align-center}
+*Illustration of the semantic segmentation process with DeepLabv3+ architecture and ResNet-18 as backbone network. The input image patches of 256 × 256 pixels are passed through convolutional and rectified linear unit layers that learn features from Brazil nut trees (Bertholletia excelsa). These features are used to distinguish them from other types of trees. (a) Ground truth individual tree crowns of B. excelsa overlaid to a true color composition of the WorldView-3 image (pixel size = 30 cm); (b) Strongest activation channel of the first convolutional layer. Note that this channel activates on edges; (c) Strongest activation channel of an intermediate layer that activates on shaded portions of the input image; (d) Activation of the penultimate layer of the network (before the softmax layer) showing strong activations in areas of B. excelsa occurrence; (e) Semantic segmentation results provided by the network and (f) Individual trees detected by using the method proposed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S037811272031166X">Ferreira et al. (2020)</a>. The red arrows in (d) and (e) point to areas segmented by the network that did not coincide with the ground truth.*
+{: .image-caption}
+
+![image-center]({{site.baseurl}}/assets/images/papers/ferreira-2021/result-2.png){: .align-center}
+*Individual tree crowns of Brazil nut trees (Bertholletia excelsa) mapped over Amazonian forests. (a) True color composition of a WorldView-3 scene (pixel size=30 cm) overlaid with automatically detected ITCs of Brazil nut trees (yellow polygons) and GNSS information acquired in the field (cyan points). (b) and (c) show two areas of B. excelsa occurrence visited in the field.*
+{: .image-caption}
+
+
+Final considerations
+======
+Our study shows the potential of CNNs and WorldView-3 images to map B. excelsa trees in Amazonian forests. We propose a new model training strategy capable of achieving a high producer’s accuracy (>97%) with a reduced set of training patches. We confirm the effectiveness of the DeepLabv3+ architecture with the ResNet-18 as a backbone network for feature extraction. We show that the shadow of emergent B. excelsa trees is a crucial discriminative feature. The off-nadir imaging capabilities of WorldView-3 can affect the presence of shadows by distorting the image. Thus, it is essential to consider the off-nadir viewing angle of WorldView-3 images for mapping of B. excelsa and other emergent trees. Individual trees and groves of B. excelsa can be mapped accurately over large tracts of Amazonian forests. This helps forest managers, ecologists, and indigenous populations to conserve and manage this important tree species.
 
 Cite this paper
 ======
 ```latex
-@InProceedings{siani2015,
-  author={Siani, Sacha Maru{\~a} Ortiz and Campos, J{\'a}rvis and Fran{\c{c}}a, David Guimar{\~a}es Monteiro 
-  and Lotte, Rodolfo Georjute and Amaral, Silvana and Monteiro, Ant{\^o}nio Miguel Vieira and K{\"o}rting, Thales Sehn},
-  title={Land-cover classification of an intra-urban environment using high-resolution images and 
-  geographic object-based image analysis: the case of APA Mananciais do Rio Para{\'\i}ba do Sul},
-  booktitle  = {Anais do XVII Simp\'osio Brasileiro de Sensoriamento Remoto (SBSR)},
-  year       = {2015},
-  date       = {22/05/2015},
-  eventtitle = {Simpósio Brasileiro de Sensoriamento Remoto},
-  volume     = {},
-  publisher  = {INPE},
-  isbn       = {},
-  pages      = {},
-  url        = {}
+@article{ferreira2021accurate,
+  title={Accurate mapping of Brazil nut trees (Bertholletia excelsa) in Amazonian forests using WorldView-3 satellite images and convolutional neural networks},
+  author={Ferreira, Matheus Pinheiro and Lotte, Rodolfo Georjute and D'Elia, Francisco V and Stamatopoulos, Christos and Kim, Do-Hyung and Benjamin, Adam R},
+  journal={Ecological Informatics},
+  volume={63},
+  pages={101302},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
