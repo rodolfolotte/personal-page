@@ -25,11 +25,11 @@ author_profile: true
 ---
 <h-exp-title><i class="fas fa-drafting-compass"></i> Consultancies in progress</h-exp-title>
 
-<h-exp-subtitle>Developer - PNUD/UNO ( <h-period>Jun. 2021 - present date</h-period> )</h-exp-subtitle>
-<h-place><i class="fas fa-building"></i> PNUD/UNO, Brasilia, DF, Brazil</h-place>
+<h-exp-subtitle>SAR imagery and developer consultant ( <h-period>Oct. 2022 - present date</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Imaflora/SERVIR-Amazônia, Piracicaba, Brazil/Peru</h-place>
 <h-exp-desc></h-exp-desc>
 
-![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/onu.png){: .align-left} **National Council of Justice (CNJ)**: Improvement of the automatic information extraction (Codex) and artificial intelligence (Sinapses) systems of the National Council of Justice (CNJ), working on maintenance tasks and development of improvements for automatic interpretation of processes at the national level. The tasks involve not only changes in the current platforms, but also improvements in performance, infrastructure, unification of SSO authentication systems (Keycloak) and more.
+![image-left]({{site.baseurl}}/assets/images/companies/imaflora.png?style=rounded){: .align-left} **Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora)**: Support, implementation and improvement of the RAMI (Radar Mining Monitoring) methodology, an online platform developed by ACCA (Conservação Amazônica) under the SERVIR-Amazônia Program. The RAMI methodology is a geospatial technology tool that provides near real-time monitoring information of the Madre de Dios mining region, using optical and RADAR satellite data. The consultancy involves the application of the respective methodology in the identified mining area in the State of Pará, using feedback from the GIS and ACCA developers. In addition, testing of the methodology based on deep learning algorithms applied to high-resolution open data from the NICFI initiative.
 
 <h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - present date</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Bioverse Labs, São Paulo, SP, Brazil</h-place>
@@ -54,6 +54,12 @@ author_profile: true
 
 ---
 <h-exp-title><i class="fas fa-clipboard-check"></i> Consultancies completed</h-exp-title>
+
+<h-exp-subtitle>Full-stack Developer - PNUD/UNO ( <h-period>Jun. 2021 - Sep. 2022</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> PNUD/UNO, Brasilia, DF, Brazil</h-place>
+<h-exp-desc></h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/onu.png){: .align-left} **National Council of Justice (CNJ)**: Improvement of the automatic information extraction (Codex) and artificial intelligence (Sinapses) systems of the National Council of Justice (CNJ), working on maintenance tasks and development of improvements for automatic interpretation of processes at the national level. The tasks involve not only changes in the current platforms, but also improvements in performance, infrastructure, unification of SSO authentication systems (Keycloak) and more.
 
 <h-exp-subtitle>Consultant and Project Manager - ( <h-period>Mar. 2020 - Jul. 2020</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Technite Consultoria em Soluções Digitais Ltda, São José dos Campos, SP, Brazil</h-place>

@@ -11,17 +11,19 @@ author_profile: true
 
 Abstract
 ======
-<h-abstract></h-abstract>
+Topic under construction! :(
 
 **Info!** Dear researcher/scientist/academic, you may find some Wikipedia references in this page, which are totally directed for those that might not be familiar with terms and need a more illustrative and didatical understanding. Please, fell free to contribute at any moment. 
 {: .notice--warning}
 
 Contextualization
 ======
-Visual search
+Topic under construction! :(
 
 Results
 ======
+Topic under construction! :(
+
 ![image-center]({{site.baseurl}}/assets/images/bachelor/pics/mapa.jpg){: .align-center}
 *Whole image dataset, organized in cluster. The spectral properties were used as main attribute on Kohonen's map training* 
 {: .image-caption}
@@ -46,6 +48,4 @@ Source-code and tools
 
 Presentation
 ======
-![image-left]({{site.baseurl}}/assets/images/master/defense.png){: .align-left} The board of examiners was composed by Prof. Dr. .
-
-The presentation was unanimously approved and is available physically for consultation in the collection of UNIFRAN, in Franca, in the digital library.
+Topic under construction! :(

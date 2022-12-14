@@ -15,19 +15,19 @@ author_profile: true
 ---
 <h-place><i class="fa fa-graduation-cap"></i> Extra lectures</h-place>
 <div class="centered">
-  <a href="certificates/pattern-recognition/" class="button-certif" style="color: white">
+  <a href="certificates/pattern-recognition/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-robot" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block; line-height: normal">Pattern Recognition</div>
   </a>
-  <a href="certificates/computer-vision/" class="button-certif" style="color: white">
+  <a href="certificates/computer-vision/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-robot" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block; line-height: normal">Computer Vision</div>
   </a>
-  <a href="certificates/laser/" class="button-certif" style="color: white">
+  <a href="certificates/laser/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-eye-slash" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block; line-height: normal">Laser principles</div>
   </a>
-  <a href="certificates/laser/" class="button-certif" style="color: white">
+  <a href="certificates/agriculture/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-tractor" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block; line-height: normal; font-size: 12pxm">Agricultural remote sensing</div>
   </a>  
@@ -35,15 +35,15 @@ author_profile: true
 ---
 <h-place><i class="fa fa-graduation-cap"></i> Trainings</h-place>
 <div class="centered">
-   <a href="certificates/erdas/" class="button-certif" style="color: white"> 
+   <a href="certificates/erdas/" class="button-experience" style="color: white"> 
     <div style="display: block"><i class="fa fa-globe" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block">ERDAS</div>
   </a>
-  <a href="certificates/trimble/" class="button-certif" style="color: white">
+  <a href="certificates/trimble/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-camera" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block">Trimble MX7</div>
   </a>
-  <a href="certificates/lidar/" class="button-certif" style="color: white">
+  <a href="certificates/lidar/" class="button-experience" style="color: white">
     <div style="display: block"><i class="fas fa-eye-slash" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
     <div style="display: block">LiDAR</div>
   </a>
@@ -53,7 +53,15 @@ author_profile: true
 <h-place><i class="fa fa-certificate"></i> Certifications</h-place>
 <div class="centered">
   <a href="certificates/scjp/" class="button-certif" style="color: white">
-    <div style="display: block"><i class="fab fa-java" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(56, 155, 56)"></i></div>
-    <div style="display: block">SCJP 6.0</div>
-  </a>    
+    <div style="display: block"><i class="fab fa-java" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
+    <div style="display: block; line-height: normal">Java/Oracle SCJP 6.0</div>
+  </a>
+  <a href="certificates/amazon-solutions-architect/" class="button-certif" style="color: white">
+    <div style="display: block"><i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
+    <div style="display: block; line-height: normal; font-size: 12pxm">Solutions Architect</div>
+  </a>
+  <a href="certificates/amazon-machine-learning/" class="button-certif" style="color: white">
+    <div style="display: block"><i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
+    <div style="display: block; line-height: normal; font-size: 12pxm">Machine Learning</div>
+  </a>
 </div>

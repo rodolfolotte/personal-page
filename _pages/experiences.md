@@ -150,3 +150,5 @@ As System Analyst/Developer during a long period at the EMBRACE/INPE, I could le
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/snakes.png?style=rounded){: .align-left} **Network Snakes**: <h-app>This sophisticated image processing technique provides a smart way to improve road networks in high resolution images. The images used, however, is the main challenge in this study. The Snakes technique is most applied under "non-noisy" scenarios. SAR images, used in this work, provide imaging uder areas not imaged by common sensors, with the add of speckle noisy. In this sense, this work comprises ways of to use Snakes under radar images to extract road networks.</h-app>
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
+
+**It is also recommended to read my [consultancies](https://rodolfolotte.github.io/personal-page/consultants/), which include part of my experiences.**
