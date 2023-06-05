@@ -70,6 +70,7 @@ img[src$="smallpic"] {
 img[src$="rounded"] {
   border-radius: 20%;
   box-shadow: 6px 6px 5px rgba(17, 22, 27, 0.541);
+  max-width:180px;
 }
 
 img[src$="shadow"] {
@@ -117,6 +118,15 @@ h-exp-desc {
   color: #757683;
 }
 
+job-style {
+  font-size: $type-size-5;
+  font-weight: bold;
+  display: block;
+  overflow: hidden;
+  font-family: $sans-serif-narrow;
+  color: #80bfff;
+}
+
 h-period {
   font-size: $type-size-5;
   font-family: $sans-serif-narrow;
@@ -150,6 +160,12 @@ h-versioning {
   display: inline-block;
   vertical-align: top;
   color: #ccffff;
+}
+
+.job-breaker{
+  color : red;
+  border : 1px solid green;
+  margin-bottom : 5px;
 }
 
 /* default syntax highlighting (base16) */

@@ -5,10 +5,53 @@ layout: archive
 classes: wide
 author_profile: true
 ---
+![image-left]({{site.baseurl}}/assets/images/companies/altave.jpg?style=rounded){: .align-left} 
+<h-exp-title>ALTAVE - Intelligent Monitoring</h-exp-title>
+<h-exp-subtitle>Computer Vision Research Engineer - ( <h-period>Jun. 2023 - present date</h-period> )</h-exp-subtitle>
+<h-place>São José dos Campos, SP, Brazil</h-place>
+<job-style>Part-time</job-style>
+<h-exp-desc>DESCRIPTION</h-exp-desc>
+
+---
+ALTAVE became a Brazilian company accredited as a Strategic Defense Company (EED), with airship technology patented in Brazil and abroad. Later, it obtained the CE marking, which attests to the quality of the product and releases it to be marketed throughout the European Union. It offers support and development to some of the main industrial segments, such as Agribusiness, Defense and Security, Mining, Oil and Gas, Energy and Ports ([Read More](https://www.altave.com.br/)).
+
+[//]: # (![image-left]&#40;{{site.baseurl}}/assets/images/applications/pics/pf.svg?style=smallpic&#41;{: .align-left} **Dedicated support**: <h-app>Support dedicated to the Brazilian Federal Police &#40;PF&#41;, which is part of the inspection program and the initiation of operations through orbital images of very high resolution. The tasks carried out in this area mainly involve the development of tools for monitoring Brazilian forests in order to preserve them and break the chain of illegal land use, as well as other operations of an environmental nature.<h-app></h-app>)
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
+
+![image-left]({{site.baseurl}}/assets/images/companies/bioverse.png){: .align-left} 
+<h-exp-title>Bioverse Labs</h-exp-title>
+<h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - present date</h-period> )</h-exp-subtitle>
+<h-place>São Paulo, SP, Brazil</h-place>
+<job-style>Part-time</job-style>
+<h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring. Tasks involve the elaboration of methodologies to deal with very high resolution images for multiple purposes, such as the public security, monitoring, inspection and assistance to federal institutions to combat deforestation, among others ([Read More](https://www.bioverselabs.com/)).</h-exp-desc>
+
+---
+DESCRIPTION_2.
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/xprize.png?style=rounded){: .align-left} **XPRIZE Rainforest**: Every single day we’re working to create a better world, a world of infinite possibilities. A more hopeful future for all. A world where everyone’s days are spent imagining, creating, and collaborating, not fearing and fighting. A world where everyone has access to clean water, nutritious food, affordable housing, effective learning, top-tier medical care and non-polluting, abundant energy. Create a better future for all. Lend a hand, share an idea, become an active voice in our community or donate - each one of us has the power to make a difference ([Read More](https://www.xprize.org/about)).
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/insect.jpg?style=rounded){: .align-left} **Autonomous insect mapping**: Through the use of very high resolution images, automatically identify specific insects species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Torch module <a href="https://github.com/Bioverse-Labs/odapi-torch">[Private repo]</a></h-versioning></li>
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Keras module <a href="https://github.com/Bioverse-Labs/odapi-keras">[Private repo]</a></h-versioning></li>  
+</ul>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>  
+</ul>
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
+
 ![image-left]({{site.baseurl}}/assets/images/companies/sccon.png?style=rounded){: .align-left} 
 <h-exp-title>Santiago & Cintra Consultoria (SCCON)</h-exp-title>
-<h-exp-subtitle>Computer Vision and Remote Sensing specialist - ( <h-period>Dez. 2020 - current</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>Computer Vision and Remote Sensing specialist - ( <h-period>Dez. 2020 - May 2023</h-period> )</h-exp-subtitle>
 <h-place>São Paulo, SP, Brazil</h-place>
+<job-style>Full-time</job-style>
 <h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring. Tasks involve the elaboration of methodologies to deal with very high resolution images for multiple purposes, such as the public security, monitoring, inspection and assistance to federal institutions to combat deforestation, among others.</h-exp-desc>
 
 ---
@@ -28,6 +71,7 @@ The use of images of very high spatial and temporal resolution, has become a tre
 <h-exp-title>Amazon Deforestation Monitoring (PRODES)</h-exp-title>
 <h-exp-subtitle>Scentific Development and Remote Sensing - ( <h-period>Jan. 2020 - Dec. 2020</h-period> )</h-exp-subtitle>
 <h-place>National Institute for Space Research (INPE), São José dos Campos, SP, Brazil</h-place>
+<job-style>Full-time</job-style>
 <h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring, especicaly, at the brazilian Amazon.</h-exp-desc>
 
 ---
@@ -55,6 +99,7 @@ The PRODES project performs satellite monitoring of recent deforestation in the 
 <h-exp-title>Geopixel Geotechnologies and IT Solutions</h-exp-title>
 <h-exp-subtitle>Technical Lead in Remote Sensing - ( <h-period>Jun. 2019 - Dec. 2019</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Technologic Park, São José dos Campos, SP, Brazil</h-place>
+<job-style>Full-time</job-style>
 <h-exp-desc>Assistance, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring.</h-exp-desc>
 
 ---
@@ -74,6 +119,7 @@ More under a commertial environment, the practices here comprises not only the d
 ![image-left]({{site.baseurl}}/assets/images/institutes/embrace2-thumb.png){: .align-left} 
 <h-exp-title>Study and Brazilian Monitoring of Space Weather (EMBRACE)</h-exp-title>
 <h-exp-subtitle>National Institute for Space Research (INPE), São José dos Campos, SP, Brazil</h-exp-subtitle>
+<job-style>Full-time</job-style>
 <h-exp-desc>Development and technologies activities regarding the Space Weather monitoring</h-exp-desc>
 
 ---
@@ -127,6 +173,7 @@ As System Analyst/Developer during a long period at the EMBRACE/INPE, I could le
 ![image-left]({{site.baseurl}}/assets/images/institutes/tolomeo-logo.png){: .align-left} 
 <h-exp-title style="font-size: 1.75em">TOols for Open Multi-risk assessment using Observation data (TOLOMEO)</h-exp-title>
 <h-exp-subtitle>Europian Comission (CORDIS)</h-exp-subtitle>
+<job-style>Full-time</job-style>
 <h-exp-desc>The TOoLs for Open Multi-risk assessment using Earth Observation data (TOLOMEO) project aimed at, and was able to, developing free/open source tools in the framework of collaborative environment with emphasis on remote sensing analysis tools for risk assessment. The developed software tools have been tested and proved to be robust, easy to use and free. They can thus be used in a collaborative way by researchers and other actors in the Earth Observation (EO) community for extracting information from imagery, and help mapping risk as well as vulnerability and exposure.</h-exp-desc>
 
 ---
@@ -145,6 +192,7 @@ As System Analyst/Developer during a long period at the EMBRACE/INPE, I could le
 
 <h-exp-subtitle>Affiliate Research in Remote Sensing ( <h-period>Jan. 2013 - Jul. 2013</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-university"></i> University of Hannover - Institute für Photogrammetrie und Geoinformation (IPI) - Leibniz Universität Hannover, Hannover, Germany</h-place>
+<job-style>Full-time</job-style>
 <h-exp-desc>By the use of image processing techinique, try to extract and improve road network under noisy scenarios.</h-exp-desc>
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/snakes.png?style=rounded){: .align-left} **Network Snakes**: <h-app>This sophisticated image processing technique provides a smart way to improve road networks in high resolution images. The images used, however, is the main challenge in this study. The Snakes technique is most applied under "non-noisy" scenarios. SAR images, used in this work, provide imaging uder areas not imaged by common sensors, with the add of speckle noisy. In this sense, this work comprises ways of to use Snakes under radar images to extract road networks.</h-app>

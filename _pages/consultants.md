@@ -8,9 +8,10 @@ author_profile: true
 
 <!-- Com as minhas experiências e formação multidisciplinar, tenho sido consultadas nas áreas de tecnologia, geotecnologia e sensoriamento remoto. Com residência em São José dos Campos, São Paulo, Brazil, os serviços prestados têm compreendido públicos desde a educação básica até empresariais, como consultorias mais amplas e de projetos. -->
 
-![image-left]({{site.baseurl}}/assets/images/logo/personal/personal-logo-final-04.svg){: .align-left} 
+![image-left]({{site.baseurl}}/assets/images/logo/personal/personal-logo-final-03.png){: .align-left} 
 <h-place>São José dos Campos, SP, Brazil</h-place>
-<h-exp-desc>With my experiences and multidisciplinary training, I have been consulted in the areas of technology, geotechnology and remote sensing. With a residence in São José dos Campos, São Paulo, Brazil, the services provided have included sectors ranging from basic education to business, such as larger consultancies with full-stack projects until basic presentations and teaching. Besides, the technologies facilities available today, has changed the way how old problems could be solved, with simpler and more flexible solutions, specially on remote sensing. In this sense, the consultancy also addresses solutions and advice on SaaS (Software as Service) and IaaS (Infrastructure as Service), such as Amazon AWS and Cloud Software Services.</h-exp-desc>
+<h-exp-desc>With my experiences and multidisciplinary training, I have been consulted in the areas of technology, geotechnology and remote sensing. With a residence in São José dos Campos, São Paulo, Brazil, the services provided have included sectors ranging from basic education to business, such as larger consultancies with full-stack projects until basic presentations and teaching. Besides, the technologies facilities available today, has changed the way how old problems could be solved, with simpler and more flexible solutions, specially on remote sensing. In this sense, the consultancy also addresses solutions and advice on SaaS (Software as Service) and IaaS (Infrastructure as Service), such as Amazon AWS and Cloud Software Services.</h-exp-desc> 
+ <h-exp-subtitle style="text-align: right"><a href="https://www.linkedin.com/company/lciars/"> Follow LCIARS page on Linkedin</a> <i class="fab fa-linkedin"></i></h-exp-subtitle>
 ---
 
 <h-exp-subtitle><i class="fas fa-atom"></i> Specialties</h-exp-subtitle>
@@ -25,29 +26,6 @@ author_profile: true
 ---
 <h-exp-title><i class="fas fa-drafting-compass"></i> Consultancies in progress</h-exp-title>
 
-<h-exp-subtitle>SAR imagery and developer consultant ( <h-period>Oct. 2022 - present date</h-period> )</h-exp-subtitle>
-<h-place><i class="fas fa-building"></i> Imaflora/SERVIR-Amazônia, Piracicaba, Brazil/Peru</h-place>
-<h-exp-desc></h-exp-desc>
-
-![image-left]({{site.baseurl}}/assets/images/companies/imaflora.png?style=rounded){: .align-left} **Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora)**: Support, implementation and improvement of the RAMI (Radar Mining Monitoring) methodology, an online platform developed by ACCA (Conservação Amazônica) under the SERVIR-Amazônia Program. The RAMI methodology is a geospatial technology tool that provides near real-time monitoring information of the Madre de Dios mining region, using optical and RADAR satellite data. The consultancy involves the application of the respective methodology in the identified mining area in the State of Pará, using feedback from the GIS and ACCA developers. In addition, testing of the methodology based on deep learning algorithms applied to high-resolution open data from the NICFI initiative.
-
-<h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - present date</h-period> )</h-exp-subtitle>
-<h-place><i class="fas fa-building"></i> Bioverse Labs, São Paulo, SP, Brazil</h-place>
-<h-exp-desc></h-exp-desc>
-
-![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/insect.jpg?style=rounded){: .align-left} **Autonomous insect mapping**: Through the use of very high resolution images, automatically identify specific insects species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
-
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI module <a href="https://github.com/Bioverse-Labs/">[Private repo]</a></h-versioning></li>  
-</ul>
-
-![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
-
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>
-  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>  
-</ul>
-
 [comment]: <> (* <i class="fab fa-bitbucket"></i>)
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
@@ -55,11 +33,21 @@ author_profile: true
 ---
 <h-exp-title><i class="fas fa-clipboard-check"></i> Consultancies completed</h-exp-title>
 
+<h-exp-subtitle>SAR imagery and developer consultant ( <h-period>Oct. 2022 - present date</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> Imaflora/SERVIR-Amazônia, Piracicaba, Brazil/Peru</h-place>
+<h-exp-desc></h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/companies/imaflora.png?style=rounded){: .align-left} **Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora)**: Support, implementation and improvement of the RAMI (Radar Mining Monitoring) methodology, an online platform developed by ACCA (Conservação Amazônica) under the SERVIR-Amazônia Program. The RAMI methodology is a geospatial technology tool that provides near real-time monitoring information of the Madre de Dios mining region, using optical and RADAR satellite data. The consultancy involves the application of the respective methodology in the identified mining area in the State of Pará, using feedback from the GIS and ACCA developers. In addition, testing of the methodology based on deep learning algorithms applied to high-resolution open data from the NICFI initiative.
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
+
 <h-exp-subtitle>Full-stack Developer - PNUD/UNO ( <h-period>Jun. 2021 - Sep. 2022</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> PNUD/UNO, Brasilia, DF, Brazil</h-place>
 <h-exp-desc></h-exp-desc>
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/onu.png){: .align-left} **National Council of Justice (CNJ)**: Improvement of the automatic information extraction (Codex) and artificial intelligence (Sinapses) systems of the National Council of Justice (CNJ), working on maintenance tasks and development of improvements for automatic interpretation of processes at the national level. The tasks involve not only changes in the current platforms, but also improvements in performance, infrastructure, unification of SSO authentication systems (Keycloak) and more.
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
 
 <h-exp-subtitle>Consultant and Project Manager - ( <h-period>Mar. 2020 - Jul. 2020</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Technite Consultoria em Soluções Digitais Ltda, São José dos Campos, SP, Brazil</h-place>
