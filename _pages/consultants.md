@@ -33,6 +33,14 @@ author_profile: true
 ---
 <h-exp-title><i class="fas fa-clipboard-check"></i> Consultancies completed</h-exp-title>
 
+<h-exp-subtitle>Computer Vision Research Engineer - ( <h-period>Jun. 2023 - Ago. 2023</h-period> )</h-exp-subtitle>
+<h-place><i class="fas fa-building"></i> ALTAVE - Intelligent Monitoring, São José dos Campos, SP, Brazil</h-place>
+<h-exp-desc>Assist and develop full applications onboard industrial boats/ships where fabricated cameras can be installed and monitor the conditions of workers in these scenarios. In this way, contribute to a well planned workflow in Machine Learning to discriminate the mandatory use of so called Individual Proctection Equipaments (IPE) by each of the employees. Besides, it allows to track possible dangerous situations and build a well determined risks panorama.</h-exp-desc>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/altave-worker.png?style=rounded){: .align-left} **Intelligent Monitoring**: <h-app>Support dedicated to the Brazilian Federal Police (PF), which is part of the inspection program and the initiation of operations through orbital images of very high resolution. The tasks carried out in this area mainly involve the development of tools for monitoring Brazilian forests in order to preserve them and break the chain of illegal land use, as well as other operations of an environmental nature.</h-app>
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fas fa-clipboard-check" style="color: #40414b"></i></span></div>
+
 <h-exp-subtitle>SAR imagery and developer consultant ( <h-period>Oct. 2022 - present date</h-period> )</h-exp-subtitle>
 <h-place><i class="fas fa-building"></i> Imaflora/SERVIR-Amazônia, Piracicaba, Brazil/Peru</h-place>
 <h-exp-desc></h-exp-desc>
