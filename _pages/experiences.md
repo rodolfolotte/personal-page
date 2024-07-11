@@ -24,7 +24,7 @@ Deloitte is one of the largest professional services firms in the world, providi
 
 ![image-left]({{site.baseurl}}/assets/images/companies/bioverse.png){: .align-left} 
 <h-exp-title>Bioverse Labs</h-exp-title>
-<h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - present date</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>Machine Learning and Remote Sensing Lead - ( <h-period>Jul. 2020 - May. 2024</h-period> )</h-exp-subtitle>
 <h-place>São Paulo, SP, Brazil</h-place>
 <job-style>Part-time</job-style>
 <h-exp-desc>Development, research and management of activities involving remote sensing geoprocessing and facilities to the land-use aerial monitoring. Tasks involve the elaboration of methodologies to deal with very high resolution images for multiple purposes, such as the public security, monitoring, inspection and assistance to federal institutions to combat deforestation, among others.</h-exp-desc>
@@ -33,6 +33,13 @@ Bioverse Labs has created species monitoring solutions under the PRECISION BIODY
 
 <h-projects>Projects:</h-projects>
 
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Private repo]</a></h-versioning></li>
+  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Private repo]</a></h-versioning></li>  
+</ul>
+
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/xprize.png?style=rounded){: .align-left} **XPRIZE Rainforest**: Every single day we’re working to create a better world, a world of infinite possibilities. A more hopeful future for all. A world where everyone’s days are spent imagining, creating, and collaborating, not fearing and fighting. A world where everyone has access to clean water, nutritious food, affordable housing, effective learning, top-tier medical care and non-polluting, abundant energy. Create a better future for all. Lend a hand, share an idea, become an active voice in our community or donate - each one of us has the power to make a difference ([Read More](https://www.xprize.org/about)).
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/insect.jpg?style=rounded){: .align-left} **Autonomous insect mapping**: Through the use of very high resolution images, automatically identify specific insects species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
@@ -40,13 +47,6 @@ Bioverse Labs has created species monitoring solutions under the PRECISION BIODY
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Torch module <a href="https://github.com/Bioverse-Labs/odapi-torch">[Private repo]</a></h-versioning></li>
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Keras module <a href="https://github.com/Bioverse-Labs/odapi-keras">[Private repo]</a></h-versioning></li>  
-</ul>
-
-![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
-
-<ul class="fa-ul">
-  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>
-  <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Read more]</a></h-versioning></li>  
 </ul>
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
