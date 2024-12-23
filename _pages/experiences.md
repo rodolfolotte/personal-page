@@ -7,7 +7,7 @@ author_profile: true
 ---
 ![image-left]({{site.baseurl}}/assets/images/companies/deloitte.png?style=rounded){: .align-left} 
 <h-exp-title>Deloitte Touche Tohmatsu</h-exp-title>
-<h-exp-subtitle>Computer Vision Data Scientist - ( <h-period>Jul. 2023 - present date</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>AI & Data Lead - ( <h-period>Jul. 2023 - present date</h-period> )</h-exp-subtitle>
 <h-place>São Paulo, SP, Brazil</h-place>
 <job-style>Full-time</job-style>
 <h-exp-desc>Data science, research and management of activities involving data, analysis, and validation. Tasks involve the elaboration of methodologies using MLOps workflow to deal with multiple applications sensitive to data. The range of possibilities is wide when the products involve the analysis of data, it counts basically every statistic tools, as well as Machine Learning, aligned with the facilities of Cloud Computing.
@@ -17,7 +17,13 @@ Deloitte is one of the largest professional services firms in the world, providi
 
 <h-projects>Projects:</h-projects>
 
-![image-left]({{site.baseurl}}/assets/images/companies/petro.png?style=smallpic){: .align-left} **Well Drilling Engineering**: <h-app> It is a specialized branch of engineering that deals with the design, planning, and execution of drilling operations to extract oil, gas, water, or other resources from the subsurface of the Earth. It involves various technical and logistical aspects to create boreholes or wells that reach the target reservoirs safely and efficiently. In this sense, this project tends to support activities on data analysis and future predictions. Activities involving solution construction, data organization, continuous ML flows, developments, database and task managements.<h-app></h-app>
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/helivar.png?style=rounded){: .align-left} **Air traffic monitoring over oil platforms**: <h-app> Monitoring helicopter landings and departures over offshore oil platforms is crucial for ensuring operational safety and compliance with regulations. Using an AWS-based infrastructure, hundreds of videos from multiple platforms can be processed continuously, enabling real-time analysis and reporting. This project employs multiple Deep Learning models to extract key safety metrics during landing and departure operations, such as counting the number of passengers, assessing landing quality, analyzing helicopter position, and verifying adherence to safety inspections. The scalable and automated nature of this system enhances oversight, minimizes human error, and supports proactive decision-making to maintain high safety standards in these critical operations.<h-app></h-app>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/sonia.png?style=rounded){: .align-left} **Intelligent bathymetric mapping of oceans**: <h-app> Bathymetry mapping around oil platforms is vital for ensuring operational safety and protecting natural and human-made targets. Using acoustic imaging, high-resolution sonar data can reveal underwater features like hazards and infrastructure. Machine learning algorithms further enhance efficiency by automating the processing and analysis of these images, enabling accurate and rapid identification of critical targets while supporting environmentally responsible operations.<h-app></h-app>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/well-drilling.png?style=rounded){: .align-left} **Well Drilling Engineering**: <h-app> It is a specialized branch of engineering that deals with the design, planning, and execution of drilling operations to extract oil, gas, water, or other resources from the subsurface of the Earth. It involves various technical and logistical aspects to create boreholes or wells that reach the target reservoirs safely and efficiently. In this sense, this project tends to support activities on data analysis and future predictions. Activities involving solution construction, data organization, continuous ML flows, developments, database and task managements.<h-app></h-app>
+
+![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/gis-petro.png?style=rounded){: .align-left} **Vegetation Loss Monitoring**: <h-app> Google Earth Engine (GEE) serves as a powerful tool for monitoring vegetation loss, offering a cloud-based platform that enables the analysis of amounts of geospatial data efficiency. Leveraging sources like MapBiomas, Global Forest Watch (GFW), and PRODES/INPE, researchers and decision-makers gain access to comprehensive datasets that track land cover changes, deforestation, and other critical environmental metrics. The integration of these resources within GEE in this project, was a great effort to have a perspective of the deforestation in time-series, which empowered the insights over the region of interest.<h-app></h-app>
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
 ---
@@ -35,19 +41,23 @@ Bioverse Labs has created species monitoring solutions under the PRECISION BIODY
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/tree-specie.png?style=rounded){: .align-left} **Autonomous tree species mapping**: Through the use of very high resolution images, automatically identify specific tree species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques, which will allow to explore the spectral, spatial and contextual properties of this species in a broad and emerging way. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
 
+<!--
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Deep Learning module <a href="https://github.com/Bioverse-Labs/deep-learning">[Private repo]</a></h-versioning></li>
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse Image Processing module <a href="https://github.com/Bioverse-Labs/deep-learning">[Private repo]</a></h-versioning></li>  
 </ul>
+-->
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/xprize.png?style=rounded){: .align-left} **XPRIZE Rainforest**: Every single day we’re working to create a better world, a world of infinite possibilities. A more hopeful future for all. A world where everyone’s days are spent imagining, creating, and collaborating, not fearing and fighting. A world where everyone has access to clean water, nutritious food, affordable housing, effective learning, top-tier medical care and non-polluting, abundant energy. Create a better future for all. Lend a hand, share an idea, become an active voice in our community or donate - each one of us has the power to make a difference ([Read More](https://www.xprize.org/about)).
 
 ![image-left]({{site.baseurl}}/assets/images/applications/pics/same-dim/insect.jpg?style=rounded){: .align-left} **Autonomous insect mapping**: Through the use of very high resolution images, automatically identify specific insects species. The detection technique will be composed by a set of image processing operators, mainly by Machine Learning techniques. In addition, it is expected that the methodology has reasonable robustness and accuracy, therefore, the methodology will be composed of scalable, interoperable, flexible and easily accessible architectures, allowing for any future modifications, experiments or replications.
 
+<!--
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Torch module <a href="https://github.com/Bioverse-Labs/odapi-torch">[Private repo]</a></h-versioning></li>
   <li><span class="fa-li"><i class="fab fa-github"></i></span><h-versioning>Bioverse ODAPI-Keras module <a href="https://github.com/Bioverse-Labs/odapi-keras">[Private repo]</a></h-versioning></li>  
 </ul>
+-->
 
 <div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
 ---
