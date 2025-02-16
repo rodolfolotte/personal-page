@@ -52,16 +52,27 @@ author_profile: true
 ---
 <h-place><i class="fa fa-certificate"></i> Certifications</h-place>
 <div class="centered">
-  <a href="certificates/scjp/" class="button-certif" style="color: white">
-    <div style="display: block"><i class="fab fa-java" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
-    <div style="display: block; line-height: normal">Java/Oracle SCJP 6.0</div>
-  </a>
-  <a href="certificates/amazon-solutions-architect/" class="button-certif" style="color: white">
-    <div style="display: block"><i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
-    <div style="display: block; line-height: normal; font-size: 12pxm">Solutions Architect</div>
-  </a>
-  <a href="certificates/amazon-machine-learning/" class="button-certif" style="color: white">
-    <div style="display: block"><i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
-    <div style="display: block; line-height: normal; font-size: 12pxm">Machine Learning</div>
-  </a>
+    <a href="certificates/scjp/" class="button-certif" style="color: white; position: relative;">
+        <span class="checkmark"><i class="fa-solid fa-certificate"></i></span>
+        <div style="display: block"><i class="fab fa-java" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i></div>
+        <div style="display: block; line-height: normal">Java/Oracle SCJP 6.0</div>
+    </a>
+    <a href="certificates/amazon-solutions-architect/" class="button-certif" style="color: white; position: relative;">
+        <span class="checkmark"><i class="fa-solid fa-certificate"></i></span>
+        <div style="display: block">
+            <i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i>
+        </div>
+        <div style="display: block; line-height: normal; font-size: 12pxm">
+            Solutions Architect
+        </div>
+    </a>
+    <a href="certificates/amazon-machine-learning/" class="button-certif" style="color: white; position: relative;">
+        <span class="ongoing"><i class="fa fa-refresh"></i></span>
+        <div style="display: block">
+            <i class="fab fa-amazon" style="font-size: 3em; margin-bottom: 0.1em; color: rgb(102, 0, 102)"></i>
+        </div>
+        <div style="display: block; line-height: normal; font-size: 12pxm;">
+            Machine Learning
+        </div>
+    </a>
 </div>

@@ -280,6 +280,35 @@ a {
   box-shadow: 0px 0px 20px rgba(156, 237, 247, 0.599);
 }
 
+/* Checkmark Icon */
+.checkmark {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: linear-gradient(45deg, #003399, #80aaff); /* Pale blue gradient */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+}
+
+.checkmark i {
+  font-weight: bold;
+}
+
+.ongoing {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: linear-gradient(45deg, #a8e6ff, #ffcc00); /* Pale blue gradient */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+}
+
+.ongoing i {
+  font-weight: bold;
+}
+
 /* ========================================================
    Progress bars
    ===================================================== */
