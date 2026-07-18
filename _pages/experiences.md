@@ -5,9 +5,24 @@ layout: archive
 classes: wide
 author_profile: true
 ---
+![image-left]({{site.baseurl}}/assets/images/companies/imagem.jpeg?style=rounded){: .align-left} 
+<h-exp-title>Imagem Geosistemas - Esri Official Distributor</h-exp-title>
+<h-exp-subtitle>Business AI Architect - ( <h-period>Jul. 2026 - Present</h-period> )</h-exp-subtitle>
+<h-place>São José dos Campos, SP, Brazil</h-place>
+<job-style>Full-time</job-style>
+<h-exp-desc>Architected scalable, cloud-native GIS solutions leveraging the ESRI ecosystem and robust cloud infrastructure (AWS) to address complex public administration and urban management challenges. Designed and orchestrated agentic AI workflows and automated machine learning pipelines, integrating disparate public data services into cohesive decision-support systems for government clients. Led the technical integration of advanced remote sensing capabilities—such as semantic segmentation and super-resolution—into geospatial architectures to modernize public cadastre and territory monitoring.
+</h-exp-desc>
+
+Imagem Geosistemas is a pioneering Brazilian geotechnology company that serves as the exclusive distributor of ArcGIS software (Esri) in the country. Headquartered in São José dos Campos (SP), it provides solutions in digital modeling, geographic intelligence, and spatial analysis to businesses and government entities. ([Read More](https://www.img.com.br/pt-br/sobre-a-imagem/institucional/)).
+
+<!-- <h-projects>Projects:</h-projects> -->
+
+<div style="text-align: center; margin: 20px auto"><span class="divider"><i class="fa fa-flask" style="color: #40414b"></i></span></div>
+---
+
 ![image-left]({{site.baseurl}}/assets/images/companies/deloitte.png?style=rounded){: .align-left} 
 <h-exp-title>Deloitte Touche Tohmatsu</h-exp-title>
-<h-exp-subtitle>AI & Data Lead - ( <h-period>Jul. 2023 - present date</h-period> )</h-exp-subtitle>
+<h-exp-subtitle>AI & Data Lead - ( <h-period>Jul. 2023 - May. 2026</h-period> )</h-exp-subtitle>
 <h-place>São Paulo, SP, Brazil</h-place>
 <job-style>Full-time</job-style>
 <h-exp-desc>Data science, research and management of activities involving data, analysis, and validation. Tasks involve the elaboration of methodologies using MLOps workflow to deal with multiple applications sensitive to data. The range of possibilities is wide when the products involve the analysis of data, it counts basically every statistic tools, as well as Machine Learning, aligned with the facilities of Cloud Computing.
